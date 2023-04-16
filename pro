@@ -553,6 +553,8 @@
         },
   {"name":"lk","type":1,"url":"https://k.json.icu/home/api?type=ys&uid=6399107&key=bdlmrswBDHIKZ01238&url="},
  { "name": "TVB云播","type": 1,"url": "https://jxm.qwrev534.top/?url="},
+ {"name":"非凡秒播","type":1,"url":"http://27.124.4.42:4567/jhjson/ceshi.php?url= ","ext":{"flag":["qiyi","qq","letv","sohu","youku","mgtv","bilibili","wasu","xigua","1905"]}},
+
 {
             "name": "星辰云解析",
             "type": 1,
