@@ -352,8 +352,6 @@
 
 
 	 {"key": "csp_lezhu","name": "🐷乐猪影视","type": 3,"api": "csp_XPath","searchable": 1,"quickSearch": 0,"filterable": 1,"ext": "http://52bsj.vip:81/api/v3/file/get/68479/%E4%B9%90%E7%8C%AAXP.json?sign=-mbGfklZSjyMYL-zyJ_0rE2igcXTzyt8TXw0nyk2-7g%3D%3A0"},
-
-
 {      "key": "csp_Xinsj",      "name": "🎗️新视觉",      "type": 3,      "api": "csp_Xinsj",      "m3u8ads": "hd.youyhn.com",      "searchable": 1,      "quickSearch": 1,      "filterable": 1,      "ext": "https://www.6080dy3.com"    },
 
 
@@ -406,7 +404,7 @@
     "filterable": 1,
     "quickSearch": 1,
     "searchable": 1
-}
+},
 {
 "key": "csp_LiteApple",
     "name": "🌸影视 | 苹果",
@@ -415,7 +413,7 @@
     "searchable": 1,
     "quickSearch": 1,
     "filterable": 1
-}
+},
 
 {
 "key": "快看影视",
@@ -435,7 +433,7 @@
     "searchable": 1,
     "quickSearch": 1,
     "filterable": 1
-}
+},
 {
 "key": "csp_Cokemv",
     "name": "🌸影视 | 可乐A",
