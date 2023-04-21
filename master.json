@@ -1154,7 +1154,7 @@
     },
          {
       "key": "1",
-      "name": "-",
+      "name": "-end-",
       "type": 3,
       "api": "",
       "searchable": 1,
@@ -1163,7 +1163,7 @@
     },    
              {
       "key": "2",
-      "name": "-",
+      "name": "",
       "type": 3,
       "api": "",
       "searchable": 1,
@@ -1172,7 +1172,43 @@
     }, 
              {
       "key": "3",
-      "name": "-",
+      "name": "",
+      "type": 3,
+      "api": "",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    }, 
+     {
+      "key": "4",
+      "name": "",
+      "type": 3,
+      "api": "",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    }, 
+     {
+      "key": "5",
+      "name": "",
+      "type": 3,
+      "api": "",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    }, 
+     {
+      "key": "6",
+      "name": "",
+      "type": 3,
+      "api": "",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    }, 
+     {
+      "key": "7",
+      "name": "",
       "type": 3,
       "api": "",
       "searchable": 1,
