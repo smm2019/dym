@@ -1143,9 +1143,45 @@
       "filterable": 1
     },
 
+            {
+      "key": "csp_Anime1",
+      "name": "🐾日本动漫B",
+      "type": 3,
+      "api": "csp_Anime1",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+         {
+      "key": "1",
+      "name": "-",
+      "type": 3,
+      "api": "",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },    
+             {
+      "key": "2",
+      "name": "-",
+      "type": 3,
+      "api": "",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    }, 
+             {
+      "key": "3",
+      "name": "-",
+      "type": 3,
+      "api": "",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    }, 
         {
             "key": "三级专场",
-            "name": "👠三级采集",
+            "name": "采集",
             "type": 1,
             "api": "https://api.ykapi.net/api.php/provide/vod/",
             "playUrl": "",
@@ -1161,21 +1197,11 @@
             ]
         },
         
-      {"key":"*KK写真资源","name":"*🔞KK写真资源","type":1,"api":"https://kkzy.me/api.php/provide/vod/","searchable":0,"quickSearch":0},  
+      {"key":"*KK写真资源","name":"*","type":1,"api":"https://kkzy.me/api.php/provide/vod/","searchable":0,"quickSearch":0},  
         
-        {"key":"*影库资源","name":"*🔞影库资源","type":1,"api":"https://api.ykapi.net/api.php/provide/vod/","searchable":0,"quickSearch":0},
-{"key":"*奶茶资源","name":"*🔞奶茶资源","type":1,"api":"https://caiji.naichaapi.com/inc/apijson_vod.php","searchable":0,"quickSearch":0},
-       {"key":"小姐姐资源","name":"*🔞小姐姐资源","type":0,"api":"https://xjjzyapi.com/home/cjapi/askl/mc10/vod/xml","searchable":1,"quickSearch":1},
- 
-            {
-      "key": "csp_Anime1",
-      "name": "🐾日本动漫B",
-      "type": 3,
-      "api": "csp_Anime1",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    }
+        {"key":"*影库资源","name":"*","type":1,"api":"https://api.ykapi.net/api.php/provide/vod/","searchable":0,"quickSearch":0},
+{"key":"*奶茶资源","name":"*","type":1,"api":"https://caiji.naichaapi.com/inc/apijson_vod.php","searchable":0,"quickSearch":0}
+
   ],
   "parses": [
     {
