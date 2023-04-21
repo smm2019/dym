@@ -16,7 +16,7 @@
   "sites": [
     {
       "key": "csp_Kunyu77",
-      "name": "🎞️七七[A]",
+      "name": "🎬七七[A]",
       "type": 3,
       "api": "csp_Kunyu77",
       "searchable": 1,
@@ -25,7 +25,7 @@
     },
     {
       "key": "csp_Bttwoo",
-      "name": "🎞️2BT[A]",
+      "name": "🎬2BT[A]",
       "type": 3,
       "api": "csp_Bttwoo",
       "searchable": 1,
@@ -34,7 +34,7 @@
     },
     {
       "key": "csp_Auete",
-      "name": "🎞️Aue [A]",
+      "name": "🎬Aue [A]",
       "type": 3,
       "api": "csp_Auete",
       "searchable": 1,
@@ -43,7 +43,7 @@
     },
     {
       "key": "csp_xpNmys",
-      "name": "🎞️农民[A]",
+      "name": "📽️农民[A]",
       "type": 3,
       "api": "csp_Nmys",
       "searchable": 1,
@@ -54,7 +54,7 @@
     },
     {
       "key": "csp_biubiu_dadagui",
-      "name": "🎞️达达龟[B]",
+      "name": "📽️达达龟[B]",
       "type": 3,
       "api": "csp_XPathFilter",
       "searchable": 1,
@@ -64,7 +64,7 @@
     },
     {
       "key": "Kuaikan",
-      "name": "🎞️快看[C]",
+      "name": "📽️快看[C]",
       "type": 3,
       "api": "csp_Kuaikan",
       "searchable": 1,
@@ -73,7 +73,7 @@
     },
     {
       "key": "drpy_js_创艺B",
-      "name": "🎞️创艺[B]",
+      "name": "🎥创艺[B]",
       "type": 3,
       "api": "https://agit.ai/guot54/TVBOXZY/raw/branch/main/JS/lib/drpy.min.js",
       "ext": "https://jihulab.com/ygbh1/box/-/raw/main/JS/js/%E5%88%9B%E8%89%BA%E5%BD%B1%E8%A7%86.js"
@@ -81,7 +81,7 @@
 
     {
       "key": "csp_555",
-      "name": "🎞️️555影视[C]",
+      "name": "🎥️555影视[C]",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
@@ -91,7 +91,7 @@
     },
     {
       "key": "csp_AppMr",
-      "name": "🎞️小明[B]",
+      "name": "🎥小明[B]",
       "type": 3,
       "api": "csp_AppMr",
       "searchable": 1,
@@ -159,23 +159,7 @@
       "filterable": 1
     },
    
-    {
-      "key": "直播转点播",
-      "name": "🐼电视直播",
-      "type": 3,
-      "api": "https://agit.ai/guot54/ygbh/raw/branch/master/JS/%e7%9b%b4%e6%92%ad%e8%bd%ac%e5%88%86%e7%ba%bf%e7%82%b9%e6%92%ad2.js",
-      "ext": "https://agit.ai/guot54/ygbh/raw/branch/master/zB/%e7%9b%b4%e6%92%ad2.js"
-    },
-    {
-      "key": "csp_Alist1",
-      "name": "🅿Alist网盘",
-      "type": 3,
-      "api": "csp_AList",
-      "searchable": 1,
-      "quickSearch": 0,
-      "filterable": 0,
-      "ext": "https://agit.ai/guot54/ygbh/raw/branch/master/cangku/alist.json"
-    },
+  
     {
       "key": "Kuaikan",
       "name": "🎞️快看C",
@@ -745,6 +729,23 @@
       "filterable": 0,
       "ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/XYQ/kannaifei.json",
       "jar": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/jar/xl.jar;md5;2c31d1eb526abdd120ff3c5de9662c1a"
+    },
+      {
+      "key": "直播转点播",
+      "name": "📺电视直播",
+      "type": 3,
+      "api": "https://agit.ai/guot54/ygbh/raw/branch/master/JS/%e7%9b%b4%e6%92%ad%e8%bd%ac%e5%88%86%e7%ba%bf%e7%82%b9%e6%92%ad2.js",
+      "ext": "https://agit.ai/guot54/ygbh/raw/branch/master/zB/%e7%9b%b4%e6%92%ad2.js"
+    },
+    {
+      "key": "csp_Alist1",
+      "name": "🅿Alist网盘",
+      "type": 3,
+      "api": "csp_AList",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 0,
+      "ext": "https://agit.ai/guot54/ygbh/raw/branch/master/cangku/alist.json"
     },
     {
       "key": "Upso",
