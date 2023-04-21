@@ -1143,10 +1143,31 @@
       "filterable": 1
     },
 
-{"key":"date","name":"️🚫🔞 0406 🔞🚫","type":3,"api":"csp_NiNi","searchable":0,"quickSearch":0,"filterable":0},
-{"name":"kkzyKK写真资源","key":"11KK写真资源","type":1,"api":"https://kkzy.me/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1},
-{"name":"kkzyKK写真资源","key":"11xKK写真资源","type":1,"api":"https://kkzy.me/api.php/provide/vod/at/json/","searchable":1,"quickSearch":1,"filterable":1},
-    {
+        {
+            "key": "三级专场",
+            "name": "👠三级采集",
+            "type": 1,
+            "api": "https://api.ykapi.net/api.php/provide/vod/",
+            "playUrl": "",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "categories": [
+                "韩国伦理",
+                "香港伦理",
+                "台湾伦理",
+                "日本写真"
+                
+            ]
+        },
+        
+      {"key":"*KK写真资源","name":"*🔞KK写真资源","type":1,"api":"https://kkzy.me/api.php/provide/vod/","searchable":0,"quickSearch":0}  
+        
+        {"key":"*影库资源","name":"*🔞影库资源","type":1,"api":"https://api.ykapi.net/api.php/provide/vod/","searchable":0,"quickSearch":0},
+{"key":"*奶茶资源","name":"*🔞奶茶资源","type":1,"api":"https://caiji.naichaapi.com/inc/apijson_vod.php","searchable":0,"quickSearch":0},
+       {"key":"小姐姐资源","name":"*🔞小姐姐资源","type":0,"api":"https://xjjzyapi.com/home/cjapi/askl/mc10/vod/xml","searchable":1,"quickSearch":1},
+ 
+            {
       "key": "csp_Anime1",
       "name": "🐾日本动漫B",
       "type": 3,
