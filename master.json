@@ -1,18 +1,17 @@
 {
   "spider": "https://codeberg.org/jgfx/dym/raw/branch/master/JAR/0324.jar;md5;61bca6e5fd49bef5a2834109f23303a9",
-  "lives": [
-    {
-      "group": "redirect",
-      "channels": [
-        {
-          "name": "redirect",
-          "urls": [
-            "proxy://do=live&type=txt&ext=aHR0cHM6Ly9jb2RlYmVyZy5vcmcvamdmeC9keW0vcmF3L2JyYW5jaC9tYXN0ZXIvWkIudHh0"
-          ]
-        }
-      ]
-    }
-  ],
+  
+"lives":[
+	{"name":"05151","type":0,"url":"https://raw.githubusercontent.com/c120487/00/main/00live05151.txt"},
+	{"name":"05152","type":0,"url":"https://raw.githubusercontent.com/c120487/00/main/00live05152.txt"},
+	{"name":"05153","type":0,"url":"https://raw.githubusercontent.com/c120487/00/main/00live05153.txt"},
+	{"name":"FongMi","type":0,"url":"https://raw.githubusercontent.com/FongMi/CatVodSpider/main/txt/adult.txt"},
+	{"name":"Guo54","type":0,"url":"https://agit.ai/guot54/ygbh/raw/branch/master/zB/zB.txt"},
+	{"name":"GaoTian","type":0,"url":"https://raw.githubusercontent.com/gaotianliuyun/gao/master/listx.txt"},
+	{"name":"YanG","type":0,"url":"https://raw.githubusercontent.com/YanG-1989/m3u/main/Adult.m3u"},
+	
+	{"name":"0515","type":0,"url":"https://raw.githubusercontent.com/c120487/00/main/00live0515.txt","epg":"https://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"}
+],
   "sites": [
     {
       "key": "csp_Kunyu77",
@@ -127,7 +126,7 @@
       "filterable": 1,
       "ext": "http://52bsj.vip:81/api/v3/file/get/68479/%E4%B9%90%E7%8C%AAXP.json?sign=-mbGfklZSjyMYL-zyJ_0rE2igcXTzyt8TXw0nyk2-7g%3D%3A0"
     },
-    {
+
       "key": "dr_豆瓣",
       "name": "🎞豆瓣",
       "type": 3,
@@ -148,6 +147,7 @@
       "filterable": 1,
       "ext": "https://www.6080dy3.com"
     },
+
     {
       "key": "csp_panghu",
       "name": "📽️胖虎[B]",
@@ -162,7 +162,7 @@
   
     {
       "key": "Kuaikan",
-      "name": "📽️快看C",
+      "name": "📽️快看[C]",
       "type": 3,
       "api": "csp_Kuaikan",
       "searchable": 1,
@@ -491,16 +491,7 @@
         "动漫电影"
       ]
     },
-    {
-      "key": "csp_lezhu",
-      "name": "📽️乐猪",
-      "type": 3,
-      "api": "csp_XPath",
-      "searchable": 1,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "http://52bsj.vip:81/api/v3/file/get/68479/%E4%B9%90%E7%8C%AAXP.json?sign=-mbGfklZSjyMYL-zyJ_0rE2igcXTzyt8TXw0nyk2-7g%3D%3A0"
-    },
+
 
     {
       "key": "小苹果",
@@ -578,15 +569,7 @@
       "searchable": 1,
       "quickSearch": 1
     },
-    {
-      "key": "csp_Xinsj",
-      "name": "📽️视觉A",
-      "type": 3,
-      "api": "csp_Xinsj",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
+
     {
       "key": "csp_xBPQ_TVB",
       "name": "📽️云播[B]",
@@ -1164,14 +1147,6 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
-    },
-    {
-      "key": "*KK写真资源",
-      "name": "*",
-      "type": 1,
-      "api": "https://kkzy.me/api.php/provide/vod/",
-      "searchable": 0,
-      "quickSearch": 0
     }
   ],
   "parses": [
