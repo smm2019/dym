@@ -26,15 +26,7 @@
       "filterable": 1
     },
     {
-      "key": "csp_Bttwoo",
-      "name": "📽️2BT[A]",
-      "type": 3,
-      "api": "csp_Bttwoo",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
+      {
       "key": "csp_Auete",
       "name": "📽️Aue [A]",
       "type": 3,
@@ -43,17 +35,7 @@
       "quickSearch": 1,
       "filterable": 1
     },
-    {
-      "key": "csp_xpNmys",
-      "name": "📽️农民[A]",
-      "type": 3,
-      "api": "csp_Nmys",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "jar": "http://52bsj.vip:81/api/v3/file/get/59542/1007.jar?sign=bkJykVTD6QDtfBpTDWQxnRyan-vn9IcpkUxZDIcnwXU%3D%3A0",
-      "ext": "http://52bsj.vip:81/api/v3/file/get/59543/%E5%86%9C%E6%B0%91.json?sign=KIBt0LFsfJvjmxlil3-pg6z4ImW81AydgH6IhIJOgCQ%3D%3A0"
-    },
+  
     {
       "key": "csp_biubiu_dadagui",
       "name": "📽️达达龟[B]",
