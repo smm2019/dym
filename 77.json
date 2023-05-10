@@ -8,7 +8,7 @@
         {
           "name": "redirect",
           "urls": [
-            "proxy://do=live&type=txt&ext=aHR0cHM6Ly9jb2RlYmVyZy5vcmcvamdmeC9keW0vcmF3L2JyYW5jaC9tYXN0ZXIvWkIudHh0"
+            "proxy://do=live&type=txt&ext=aHR0cHM6Ly9jb2RlYmVyZy5vcmcvamdmeC9keW0vcmF3L2JyYW5jaC9tYXN0ZXIvNzctemIuanNvbg=="
           ]
         }
       ]
@@ -21,6 +21,15 @@
       "name": "七星影城",
       "type": 3,
       "api": "csp_Kunyu77",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "vip",
+      "name": "特点：极速-蓝光-秒开",
+      "type": 3,
+      "api": "vip",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
