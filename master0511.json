@@ -1,4 +1,4 @@
-{
+	{
   "spider": "https://codeberg.org/jgfx/dym/raw/branch/master/JAR/0324.jar;md5;61bca6e5fd49bef5a2834109f23303a9",
   
 "lives": [
@@ -16,7 +16,8 @@
   ],
 
   "sites": [
-    {
+      
+     {
       "key": "csp_Kunyu77",
       "name": "📽️七七[A]",
       "type": 3,
@@ -25,8 +26,8 @@
       "quickSearch": 1,
       "filterable": 1
     },
-    
-      {
+ 
+    {
       "key": "csp_Auete",
       "name": "📽️Aue [A]",
       "type": 3,
@@ -35,7 +36,7 @@
       "quickSearch": 1,
       "filterable": 1
     },
-  
+
     {
       "key": "csp_biubiu_dadagui",
       "name": "📽️达达龟[B]",
@@ -75,7 +76,7 @@
     },
     {
       "key": "csp_AppMr",
-      "name": "📽️小明[B]",
+      "name": "📽️小明[A]",
       "type": 3,
       "api": "csp_AppMr",
       "searchable": 1,
@@ -111,16 +112,7 @@
       "filterable": 1,
       "ext": "http://52bsj.vip:81/api/v3/file/get/68479/%E4%B9%90%E7%8C%AAXP.json?sign=-mbGfklZSjyMYL-zyJ_0rE2igcXTzyt8TXw0nyk2-7g%3D%3A0"
     },
-{
-      "key": "dr_豆瓣",
-      "name": "🎞豆瓣",
-      "type": 3,
-      "api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js",
-      "ext": "http://v.tvfan.top:88/tvbox/js/drpy.js",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0
-    },
+
     {
       "key": "csp_Xinsj",
       "name": "📽️新视觉[B]",
@@ -143,245 +135,8 @@
       "quickSearch": 1,
       "filterable": 1
     },
-   
-  
-    {
-      "key": "Kuaikan",
-      "name": "📽️快看[C]",
-      "type": 3,
-      "api": "csp_Kuaikan",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "🥭zy_乱舞1",
-      "name": "♥️腾讯TV",
-      "type": 1,
-      "api": "https://cms.json.vin/api.php/provide/vod/from/qq/?ac=list",
-      "searchable": 1,
-      "playUrl": "https://jx.jsonplayer.com/player/?url=",
-      "quickSearch": 1,
-      "categories": [
-        "国产剧",
-        "韩国剧",
-        "香港剧",
-        "台湾剧",
-        "欧美剧",
-        "电影",
-        "连续剧",
-        "综艺",
-        "动漫",
-        "动作片",
-        "科幻片",
-        "战争片",
-        "奇幻片",
-        "喜剧片",
-        "爱情片",
-        "恐怖片",
-        "犯罪片",
-        "悬疑片",
-        "惊悚片",
-        "剧情片",
-        "冒险片",
-        "记录片"
-      ]
-    },
-    {
-      "key": "腾讯资源",
-      "name": "️♥️腾讯",
-      "type": 1,
-      "api": "http://anltv.cn/api.php/provide/vod/from/qq/?at/xml/",
-      "playUrl": "https://jxdp.codermart.net/?url=",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "categories": [
-        "国产剧",
-        "韩国剧",
-        "香港剧",
-        "台湾剧",
-        "欧美剧",
-        "动作片",
-        "科幻片",
-        "战争片",
-        "奇幻片",
-        "喜剧片",
-        "爱情片",
-        "恐怖片",
-        "犯罪片",
-        "悬疑片",
-        "惊悚片",
-        "剧情片",
-        "冒险片",
-        "记录片",
-        "综艺",
-        "动漫"
-      ]
-    },
-    {
-      "key": "芒果资源",
-      "name": "️♥️芒果",
-      "type": 1,
-      "api": "http://anltv.cn/api.php/provide/vod/from/mgtv/?at/xml/",
-      "playUrl": "https://jx.777jiexi.com/player/?url=",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "categories": [
-        "国产剧",
-        "韩国剧",
-        "香港剧",
-        "台湾剧",
-        "欧美剧",
-        "动作片",
-        "科幻片",
-        "战争片",
-        "奇幻片",
-        "喜剧片",
-        "爱情片",
-        "恐怖片",
-        "犯罪片",
-        "悬疑片",
-        "惊悚片",
-        "剧情片",
-        "冒险片",
-        "记录片",
-        "综艺",
-        "动漫"
-      ]
-    },
-    {
-      "key": "爱奇艺资源",
-      "name": "️♥️爱奇艺",
-      "type": 1,
-      "api": "http://anltv.cn/api.php/provide/vod/from/qiyi/?at/xml/",
-      "playUrl": "https://jxdp.codermart.net/?url=",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "categories": [
-        "国产剧",
-        "韩国剧",
-        "香港剧",
-        "台湾剧",
-        "欧美剧",
-        "动作片",
-        "科幻片",
-        "战争片",
-        "奇幻片",
-        "喜剧片",
-        "爱情片",
-        "恐怖片",
-        "犯罪片",
-        "悬疑片",
-        "惊悚片",
-        "剧情片",
-        "冒险片",
-        "记录片",
-        "综艺",
-        "动漫"
-      ]
-    },
-    {
-      "key": "优酷资源",
-      "name": "️♥️优酷",
-      "type": 1,
-      "api": "http://anltv.cn/api.php/provide/vod/from/youku/?at/xml/",
-      "playUrl": "https://www.cgdyw.net/jiexi/jiexi-gf/?url=",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "categories": [
-        "国产剧",
-        "韩国剧",
-        "香港剧",
-        "台湾剧",
-        "欧美剧",
-        "动作片",
-        "科幻片",
-        "战争片",
-        "奇幻片",
-        "喜剧片",
-        "爱情片",
-        "恐怖片",
-        "犯罪片",
-        "悬疑片",
-        "惊悚片",
-        "剧情片",
-        "冒险片",
-        "记录片",
-        "综艺",
-        "动漫"
-      ]
-    },
 
-      {
-      "key": "zy_乱舞3",
-      "name": "♥️搜狐",
-      "type": 1,
-      "api": "https://cms.json.vin/api.php/provide/vod/from/sohu/?ac=list",
-      "searchable": 1,
-      "playUrl": "https://jx.jsonplayer.com/player/?url=",
-      "quickSearch": 1,
-      "categories": [
-        "电影",
-        "连续剧",
-        "综艺",
-        "动漫",
-        "国产剧",
-        "韩国剧",
-        "香港剧",
-        "台湾剧",
-        "欧美剧",
-        "动作片",
-        "科幻片",
-        "战争片",
-        "奇幻片",
-        "喜剧片",
-        "爱情片",
-        "恐怖片",
-        "犯罪片",
-        "悬疑片",
-        "惊悚片",
-        "剧情片",
-        "冒险片",
-        "记录片"
-      ]
-    },
-    {
-      "key": "搜狐资源",
-      "name": "️♥️搜狐",
-      "type": 1,
-      "api": "http://anltv.cn/api.php/provide/vod/from/sohu/?at/xml/",
-      "playUrl": "https://jx.xmflv.com/?url=",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "categories": [
-        "国产剧",
-        "韩国剧",
-        "香港剧",
-        "台湾剧",
-        "欧美剧",
-        "动作片",
-        "科幻片",
-        "战争片",
-        "奇幻片",
-        "喜剧片",
-        "爱情片",
-        "恐怖片",
-        "犯罪片",
-        "悬疑片",
-        "惊悚片",
-        "剧情片",
-        "冒险片",
-        "记录片",
-        "综艺",
-        "动漫"
-      ]
-    },
-  
+   
     {
       "key": "极速资源lz",
       "name": "📽️极速一[A]",
@@ -477,28 +232,6 @@
       ]
     },
 
-
-    {
-      "key": "小苹果",
-      "name": "📽️小苹果[C]",
-      "type": 3,
-      "api": "csp_LiteApple",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "jar": "https://gitlab.com/ygbh1/666/-/raw/main/JAR/ttpg.jar"
-    },
-    {
-      "key": "BuLei",
-      "name": "📽️布雷[C]",
-      "type": 3,
-      "api": "csp_BuLei",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://v.bulei.cc",
-      "jar": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar;md5; 7373CFDE72043479157CAD08FA726B34"
-    },
     {
       "key": "csp_Nmys",
       "name": "📽️农民[A]",
@@ -509,6 +242,20 @@
       "filterable": 1,
       "ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/sub/Nmys.json"
     },
+
+    {
+      "key": "csp_xpNmys",
+      "name": "📽️农民[A]",
+      "type": 3,
+      "api": "csp_Nmys",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar": "http://52bsj.vip:81/api/v3/file/get/59542/1007.jar?sign=bkJykVTD6QDtfBpTDWQxnRyan-vn9IcpkUxZDIcnwXU%3D%3A0",
+      "ext": "http://52bsj.vip:81/api/v3/file/get/59543/%E5%86%9C%E6%B0%91.json?sign=KIBt0LFsfJvjmxlil3-pg6z4ImW81AydgH6IhIJOgCQ%3D%3A0"
+    },
+
+
     {
       "key": "bdys01",
       "name": "📽️哔嘀[B]",
@@ -520,7 +267,7 @@
     },
     {
       "key": "csp_LiteApple",
-      "name": "📽️苹果[B]",
+      "name": "📽️苹果[A]",
       "type": 3,
       "api": "csp_LiteApple",
       "searchable": 1,
@@ -529,7 +276,7 @@
     },
     {
       "key": "快看影视",
-      "name": "📽️快看B",
+      "name": "📽️快看[B]",
       "type": 3,
       "api": "csp_Kuaikan",
       "searchable": 1,
@@ -612,7 +359,7 @@
     },
     {
       "key": "csp_xBPQ_创意影视",
-      "name": "📽️电视剧[B]",
+      "name": "📽️电视剧[A]",
       "type": 3,
       "api": "csp_xBPQ",
       "searchable": 1,
@@ -645,7 +392,7 @@
     },
     {
       "key": "csp_xBPQ_快看影视",
-      "name": "📽️快看[B]",
+      "name": "📽️快看[C]",
       "type": 3,
       "api": "csp_xBPQ",
       "searchable": 1,
@@ -689,7 +436,7 @@
     },
     {
       "key": "kannaifei",
-      "name": "📽️看看[B]",
+      "name": "📽️看看*[B]",
       "type": 3,
       "api": "csp_XYQHiker",
       "searchable": 1,
@@ -1142,8 +889,9 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
-    },    
-             {
+    },   
+
+               {
       "key": "2",
       "name": "",
       "type": 3,
@@ -1190,6 +938,15 @@
     }, 
      {
       "key": "7",
+      "name": "",
+      "type": 3,
+      "api": "",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    }, 
+         {
+      "key": "8",
       "name": "",
       "type": 3,
       "api": "",
