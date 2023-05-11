@@ -38,7 +38,7 @@
   
     {
       "key": "csp_biubiu_dadagui",
-      "name": "请至公众号获取新版本",
+      "name": "请至公众号[放学回家看电视]",
       "type": 3,
       "api": "csp_XPathFilter",
       "searchable": 1,
@@ -48,7 +48,7 @@
     },
       {
       "key": "c7",
-      "name": "",
+      "name": "获取新版本",
       "type": 3,
       "api": "",
       "searchable": 1,
