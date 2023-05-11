@@ -5,15 +5,7 @@
    "spider":
 "https://codeberg.org/jgfx/dym/raw/branch/master/JAR/a.jar;md5;3CBF39FDCFE54984B4D41A08679BA67E",
 "spider": "https://codeberg.org/jgfx/dym/raw/branch/master/JAR/Yoursmile.jar;md5; 7373CFDE72043479157CAD08FA726B34",
-"lives": [
-{"name":"直播IPV4","type":0,"url":"https://agit.ai/ihymn/tvbox/raw/branch/master/tv/zblive.txt","epg":"https://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
-{"name":"Aishang-V4","type":0,"playerType":1,"url":"https://agit.ai/ihymn/tvbox/raw/branch/master/tv/ASlive.txt","epg":"https://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
-{"name":"FY-BESTV-V4","type":0,"url":"https://telegram-feiyangdigital.v1.mk/bestv.m3u"},
-{"name":"FY-GHYX-V4","type":0,"url":"https://telegram-feiyangdigital.v1.mk/ghyx.m3u"},
-{"name":"备用IPV4","type":0,"url":"https://raw.fastgit.org/vamoschuck/TV/main/M3U"},
-{"name":"直播IPV6","type":0,"url":"https://ghproxy.com/https://raw.githubusercontent.com/YueChan/Live/main/IPTV.m3u"},
-{"name":"港澳台","type":0,"url":"https://ghproxy.com/https://raw.githubusercontent.com/TreeYI2022/IPV6/main/ipv6gj.m3u"}
-],
+    "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9jb2RlYmVyZy5vcmcvamdmeC9keW0vcmF3L2JyYW5jaC9tYXN0ZXIvYXl0LXpiLnR4dA=="]}]}],
     "sites": [ 
      
         {
