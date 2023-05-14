@@ -3,9 +3,9 @@
     "wallpaper": "https://壁纸.神器每日推送.tk",
     "wallpaper": "http://www.kf666888.cn/api/tvbox/img",
    "spider":
-"https://codeberg.org/jgfx/dym/raw/branch/master/JAR/a.jar;md5;3CBF39FDCFE54984B4D41A08679BA67E",
-"spider": "https://codeberg.org/jgfx/dym/raw/branch/master/JAR/Yoursmile.jar;md5; 7373CFDE72043479157CAD08FA726B34",
-    "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9jb2RlYmVyZy5vcmcvamdmeC9keW0vcmF3L2JyYW5jaC9tYXN0ZXIvYXl0LXpiLnR4dA=="]}]}],
+"https://raw.iqiq.io/jigedos/dym/master/JAR/a.jar;md5;3CBF39FDCFE54984B4D41A08679BA67E",
+"spider": "https://raw.iqiq.io/jigedos/dym/master/JAR/Yoursmile.jar;md5; 7373CFDE72043479157CAD08FA726B34",
+    "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9yYXcuaXFpcS5pby9qaWdlZG9zL2R5bS9tYXN0ZXIvYXl0LXpiLnR4dA=="]}]}],
     "sites": [ 
      
         {
