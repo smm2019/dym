@@ -744,6 +744,23 @@ NewTV热播精选,http://39.135.138.60:18890/PLTV/88888910/224/3221225711/index.
 凤凰香港,http://120.84.96.82:808/hls/81/index.m3u8
 
 凤凰电影,http://111.59.189.40:8445/tsfile/live/1022_1.m3u8
+翡翠台,http://162.19.247.76:22222/live/tvbfc/index.m3u8
+翡翠台,http://107.151.203.111:2209/135/hk.php?id=tvbfct
+TVB星河,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=153506&extension=ts&play_token=miEIuxsBcN
+TVB1,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=153401&extension=ts&play_token=zUkGQ70Vue
+TVB1,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=153396&extension=ts&play_token=ICdnbP1fWe
+千禧经典台,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=153503&extension=ts&play_token=CkqdtepPsp
+千禧经典台,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=571197&extension=ts&play_token=S0w0stULcO
+金马影院,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
+娱乐新闻台,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=571188&extension=ts&play_token=p582OSpABb
+娱乐新闻台,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=153398&extension=ts&play_token=TPIp3m3TjC
+
+
+
+
+
+
+
 
 天映经典,http://120.84.96.82:808/hls/85/index.m3u8
 好莱坞电影,http://120.84.96.82:808/hls/24/index.m3u8
