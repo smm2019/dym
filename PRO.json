@@ -1,5 +1,5 @@
 {
-  "spider": "https://raw.iqiq.io/jigedos/dym/master/JAR/yg426.jar;md5;5F336F6DE028983FEF9F3C8EA638DFB0",
+  "spider": "https://ghproxy.com/https://raw.githubusercontent.com/jigedos/dym/master/JAR/yg426.jar;md5;5F336F6DE028983FEF9F3C8EA638DFB0",
   "lives": [
     {
       "group": "redirect",
@@ -39,8 +39,8 @@
       "key": "直播转点播",
       "name": "🐼电视直播",
       "type": 3,
-      "api": "https://raw.iqiq.io/jigedos/dym/master/JS/%E7%9B%B4%E6%92%AD%E8%BD%AC%E5%88%86%E7%BA%BF%E7%82%B9%E6%92%AD2.js",
-      "ext": "https://raw.iqiq.io/jigedos/dym/master/zB/%E7%9B%B4%E6%92%AD2.js"
+      "api": "https://ghproxy.com/https://raw.githubusercontent.com/jigedos/dym/master/JS/%E7%9B%B4%E6%92%AD%E8%BD%AC%E5%88%86%E7%BA%BF%E7%82%B9%E6%92%AD2.js",
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/jigedos/dym/master/zB/%E7%9B%B4%E6%92%AD2.js"
     },
     {
       "key": "小苹果",
@@ -84,7 +84,7 @@
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "https://raw.iqiq.io/jigedos/dym/master/cangku/alist.json"
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/jigedos/dym/master/cangku/alist.json"
     },
    
     {
@@ -219,7 +219,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://raw.iqiq.io/jigedos/dym/master/JAR/cp0921%E4%BF%AE%E5%A4%8D%E5%A4%A9%E7%A9%BA.jar"
+      "jar": "https://ghproxy.com/https://raw.githubusercontent.com/jigedos/dym/master/JAR/cp0921%E4%BF%AE%E5%A4%8D%E5%A4%A9%E7%A9%BA.jar"
     },
     {
       "key": "csp_Smdyy",
@@ -264,118 +264,7 @@
     },
    
 
-    {
-      "key": "csp_XBPQTVB影视",
-      "name": "🎞️TVB云播〔XBPQ〕",
-      "type": 3,
-      "api": "csp_xBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://52bsj.vip:81/api/v3/file/get/63303/TVB%E4%BA%91%E6%92%AD%28xBPQ%29.json?sign=D7u6b1vB57heVQdexskilQyAnu6CAOY0J1gIxm0wDvs%3D%3A0",
-      "jar": "http://52bsj.vip:81/api/v3/file/get/61833/xBPQ_1106.jar?sign=OVzxP6WlxeCthygathb2n4nXosg5HkE6NM9vkf3IFVk%3D%3A0"
-    },
 
-
-    {
-      "key": "csp_Bili",
-      "name": "🅱哔哩套餐",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "http://52bsj.vip:81/api/v3/file/get/64479/bilibili_2.json?sign=mT70lhyOd_pHJHA8zEjxouiG97eo0C26Ga-GP0HAB4M%3D%3A0",
-      "jar": "http://52bsj.vip:81/api/v3/file/get/64478/%E5%A4%96%E9%93%BEcookie%E8%83%BD%E7%BF%BB%E9%A1%B5.jar?sign=SLg7is9_oL_nL8yI8QRIwO11Vpav7P5eYY25FoNSYIs%3D%3A0"
-    },
-    {
-      "key": "演唱会",
-      "name": "🅱️演唱会",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "http://52bsj.vip:81/api/v3/file/get/33114/%E6%BC%94%E5%94%B1%E4%BC%9A.json?sign=JgZ1FuOl12vukIkRas_T4v4Zg_l999m2JVHDiqhGLic%3D%3A0",
-      "jar": "http://52bsj.vip:81/api/v3/file/get/64478/%E5%A4%96%E9%93%BEcookie%E8%83%BD%E7%BF%BB%E9%A1%B5.jar?sign=SLg7is9_oL_nL8yI8QRIwO11Vpav7P5eYY25FoNSYIs%3D%3A0"
-    },
-    {
-      "key": "戏曲",
-      "name": "🅱️戏曲",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "http://52bsj.vip:81/api/v3/file/get/33115/%E6%88%8F%E6%9B%B2.json?sign=dKQjA0Cnr7RHc3NkFbhjCLD7AmXE6SD5OF8pDlONKxs%3D%3A0",
-      "jar": "http://52bsj.vip:81/api/v3/file/get/64478/%E5%A4%96%E9%93%BEcookie%E8%83%BD%E7%BF%BB%E9%A1%B5.jar?sign=SLg7is9_oL_nL8yI8QRIwO11Vpav7P5eYY25FoNSYIs%3D%3A0"
-    },
-    {
-      "key": "MV",
-      "name": "🅱️歌曲MV",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "http://52bsj.vip:81/api/v3/file/get/33112/%E6%AD%8C%E6%9B%B2MV.json?sign=KB_Qwrac-uvlJFIVoaZNoyFKolNnM9ETQxd61-_wRsE%3D%3A0",
-      "jar": "http://52bsj.vip:81/api/v3/file/get/64478/%E5%A4%96%E9%93%BEcookie%E8%83%BD%E7%BF%BB%E9%A1%B5.jar?sign=SLg7is9_oL_nL8yI8QRIwO11Vpav7P5eYY25FoNSYIs%3D%3A0"
-    },
-    {
-      "key": "少儿",
-      "name": "🅱️教育",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0,
-      "ext": "http://52bsj.vip:81/api/v3/file/get/33113/%E5%B0%91%E5%84%BF%E6%95%99%E8%82%B2.json?sign=M9Yy0JDj_uwsAsiHY0YChEk27S55kj30rdi_3zU7Nb4%3D%3A0",
-      "jar": "http://52bsj.vip:81/api/v3/file/get/64478/%E5%A4%96%E9%93%BEcookie%E8%83%BD%E7%BF%BB%E9%A1%B5.jar?sign=SLg7is9_oL_nL8yI8QRIwO11Vpav7P5eYY25FoNSYIs%3D%3A0"
-    },
-    {
-      "key": "CCTV",
-      "name": "CCTV",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0,
-      "ext": "http://52bsj.vip:81/api/v3/file/get/104886/cctv.json?sign=EHC5fvr6tlsLuThY5HAghaF8T-9xQZ2aj7QFrkQw0VE%3D%3A0",
-      "jar": "http://52bsj.vip:81/api/v3/file/get/64478/%E5%A4%96%E9%93%BEcookie%E8%83%BD%E7%BF%BB%E9%A1%B5.jar?sign=SLg7is9_oL_nL8yI8QRIwO11Vpav7P5eYY25FoNSYIs%3D%3A0"
-    },
-    {
-      "key": "csp_xpath_A33",
-      "name": "🎸MTV",
-      "type": 3,
-      "api": "csp_XPath",
-      "searchable": 1,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "http://52bsj.vip:81/api/v3/file/get/31693/mtv.json?sign=zzAxHDF7eAXNvp55rUpNfuLy31ZfUJyLTpWxwE_plBc%3D%3A0"
-    },
-  
-    {
-      "key": "push_agent",
-      "name": "🍭推送（爱优腾/磁力/阿里）",
-      "type": 3,
-      "api": "csp_PushAgent",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0,
-      "ext": "cfe35d11f40b4872b3f6e35388b16181",
-      "jar": "http://52bsj.vip:81/api/v3/file/get/40056/%E5%8E%9F%E7%94%BB.jar?sign=Dnj7Fy_zQPEegI4pHmr7QcT8Q6ujk8tiyBjD_kn8TTk%3D%3A0"
-    },
-    {
-      "key": "csp_XYQBiu_短视频",
-      "name": "📱短视频分享(XYQ)",
-      "type": 3,
-      "api": "csp_XYQBiu",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "http://52bsj.vip:81/api/v3/file/get/46402/dsp.json?sign=UA_8tuogF31HMhrGVyNOy3aKApOec1WtlMoUYfQT-bM%3D%3A0"
-    },
- 
     {
       "key": "csp_Yj1211",
       "name": "📽️在线直播",
@@ -486,8 +375,8 @@
       "key": "drpy_js_喵了个咪",
       "name": "👠喵了个咪[请更换解析]",
       "type": 3,
-      "api": "https://raw.iqiq.io/jigedos/dym/master/JS/drpy.min.js",
-      "ext": "https://raw.iqiq.io/jigedos/dym/master/JS/%E7%8C%AB%E4%BA%86%E4%B8%AA%E5%92%AA.js"
+      "api": "https://ghproxy.com/https://raw.githubusercontent.com/jigedos/dym/master/JS/drpy.min.js",
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/jigedos/dym/master/JS/%E7%8C%AB%E4%BA%86%E4%B8%AA%E5%92%AA.js"
     },
     {
       "key": "老鸭",
