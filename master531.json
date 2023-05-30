@@ -351,6 +351,10 @@
       "ext": "https://gitee.com/cainisi/TVBox/raw/master/xBPQ/农民影视.json",
       "jar": "https://gitee.com/cainisi/TVBox/raw/master/jar/xBPQ1107.jar"
     },
+	  {"key":"csp_appysv2_2号币","name":"🐌2号币","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://phoebe.cf/api.php/iptv/vod/"},
+
+	  
+	  
     {
       "key": "csp_Yj1211",
       "name": "📽️在线直播A",
