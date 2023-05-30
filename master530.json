@@ -1,7 +1,6 @@
-	{
+{
   "spider": "https://ghproxy.com/https://raw.githubusercontent.com/jigedos/dym/master/JAR/0324.jar;md5;61bca6e5fd49bef5a2834109f23303a9",
-  
-"lives": [
+  "lives": [
     {
       "group": "redirect",
       "channels": [
@@ -14,10 +13,8 @@
       ]
     }
   ],
-
   "sites": [
-      
-     {
+    {
       "key": "csp_Kunyu77",
       "name": "📽️七七[A]",
       "type": 3,
@@ -26,7 +23,6 @@
       "quickSearch": 1,
       "filterable": 1
     },
-
     {
       "key": "csp_LiteApple",
       "name": "🍎小苹果〔SP〕",
@@ -35,7 +31,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-	      "jar": "https://ghproxy.com/https://raw.githubusercontent.com/jigedos/yyrh/main/cns/spider.jar"
+      "jar": "https://ghproxy.com/https://raw.githubusercontent.com/jigedos/yyrh/main/cns/spider.jar"
     },
     {
       "key": "csp_Auete",
@@ -46,7 +42,6 @@
       "quickSearch": 1,
       "filterable": 1
     },
-
     {
       "key": "csp_biubiu_dadagui",
       "name": "📽️达达龟[B]",
@@ -73,7 +68,6 @@
       "api": "https://agit.ai/guot54/TVBOXZY/raw/branch/main/JS/lib/drpy.min.js",
       "ext": "https://jihulab.com/ygbh1/box/-/raw/main/JS/js/%E5%88%9B%E8%89%BA%E5%BD%B1%E8%A7%86.js"
     },
-
     {
       "key": "csp_555",
       "name": "📽️️555[A]",
@@ -112,10 +106,6 @@
       "quickSearch": 1,
       "filterable": 1
     },
-
-
-
-   
     {
       "key": "极速资源lz",
       "name": "📽️极速一[A]",
@@ -210,10 +200,6 @@
         "动漫电影"
       ]
     },
-
-
-
-
     {
       "key": "快看影视",
       "name": "📽️快看[B]",
@@ -223,7 +209,6 @@
       "quickSearch": 1,
       "filterable": 1
     },
-
     {
       "key": "csp_Cokemv",
       "name": "📽️可乐[A]",
@@ -241,8 +226,6 @@
       "searchable": 1,
       "quickSearch": 1
     },
-
-   
     {
       "key": "csp_xBPQ_神马影院",
       "name": "📽️神马[B]",
@@ -364,9 +347,6 @@
       "ext": "https://gitee.com/cainisi/TVBox/raw/master/xBPQ/农民影视.json",
       "jar": "https://gitee.com/cainisi/TVBox/raw/master/jar/xBPQ1107.jar"
     },
-
-
-
     {
       "key": "csp_Yj1211",
       "name": "📽️在线直播A",
@@ -376,7 +356,6 @@
       "quickSearch": 1,
       "filterable": 1
     },
-
     {
       "key": "csp_Dm84",
       "name": "🚌动漫巴士A",
@@ -386,8 +365,7 @@
       "quickSearch": 1,
       "filterable": 1
     },
-
-            {
+    {
       "key": "csp_Anime1",
       "name": "🐾日本动漫B",
       "type": 3,
@@ -396,7 +374,7 @@
       "quickSearch": 1,
       "filterable": 1
     },
-         {
+    {
       "key": "1",
       "name": "-end-",
       "type": 3,
@@ -404,9 +382,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
-    },   
-
-               {
+    },
+    {
       "key": "2",
       "name": "",
       "type": 3,
@@ -414,8 +391,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
-    }, 
-             {
+    },
+    {
       "key": "3",
       "name": "",
       "type": 3,
@@ -423,8 +400,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
-    }, 
-     {
+    },
+    {
       "key": "4",
       "name": "",
       "type": 3,
@@ -432,8 +409,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
-    }, 
-     {
+    },
+    {
       "key": "5",
       "name": "",
       "type": 3,
@@ -441,8 +418,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
-    }, 
-     {
+    },
+    {
       "key": "6",
       "name": "",
       "type": 3,
@@ -450,8 +427,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
-    }, 
-     {
+    },
+    {
       "key": "7",
       "name": "",
       "type": 3,
@@ -459,8 +436,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
-    }, 
-         {
+    },
+    {
       "key": "8",
       "name": "",
       "type": 3,
@@ -468,10 +445,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
-    }, 
-                
-        
-
+    }
   ],
   "parses": [
     {
