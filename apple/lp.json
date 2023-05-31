@@ -1,6 +1,20 @@
-
-
 {
+    "spider": "http://我不是.肥猫.love:63/Jar/pandaQ230527.jar;md5;4907039156A4E3065E9D1290B21D335F",
+    "lives": [
+        {
+            "group": "redirect",
+            "channels": [
+                {
+                    "name": "redirect",
+                    "urls": [
+                        "proxy://do=live&type=txt&ext=aHR0cHM6Ly9naHByb3h5LmNvbS9odHRwczovL3Jhdy5naXRodWJ1c2VyY29udGVudC5jb20vamlnZWRvcy9keW0vbWFzdGVyL2FwcGxlL3piLnR4dA=="
+                    ]
+                }
+            ]
+        }
+    ],
+    "wallpaper": "http://bt.hm.iqinu.com:32000/box/wallpaper/",
+	
 "sites":[
 
 
@@ -240,13 +254,8 @@
 {"key":"csp_XYQBiu_斗鱼","name":"🐟斗鱼直播","type":3,"api":"csp_XYQBiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"http://我不是.肥猫.love:63/json/斗鱼.json"},
 
 
-{"key":"drpy_js_JRKAN直播","name":"⚽🏀球赛","type":3,"api":"http://alist.xn--z7x900a.love:63/drpy2.min.js","ext":"http://alist.xn--z7x900a.love:63/JRKAN直播.js"},
-
-"lives":[{"name": "live","type": 0,"playerType":1,"url": "https://ghproxy.com/https://raw.githubusercontent.com/jigedos/dym/master/apple/zb.txt","ua": "okhttp/3.12.13","epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}","ua": "okhttp/3.12.13","logo":"https://epg.112114.xyz/logo/{name}.png"},     
-    {"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=aHR0cDovL3huLS1paHF1MTBjbjRjLnhuLS16N3g5MDBhLmxvdmU6NjMvVFYvdHZ6Yi50eHQ="]}]}],
-
-
-
+{"key":"drpy_js_JRKAN直播","name":"⚽🏀球赛","type":3,"api":"http://alist.xn--z7x900a.love:63/drpy2.min.js","ext":"http://alist.xn--z7x900a.love:63/JRKAN直播.js"}
+    ],
 
 "parses":[
 
@@ -481,7 +490,5 @@
     "vip.ffzyad.com",
     "https://lf1-cdn-tos.bytegoofy.com/obj/tos-cn-i-dy/455ccf9e8ae744378118e4bd289288dd"
   ],
-
-"wallpaper":"http://我不是.肥猫.love:63/pic/feimao.php","warningText":"接口完全免费，切勿付费购买。",
-"spider":"http://我不是.肥猫.love:63/Jar/pandaQ230527.jar;md5;4907039156A4E3065E9D1290B21D335F"   
+ 
 }
