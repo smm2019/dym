@@ -325,6 +325,41 @@
       "filterable": 1,
       "ext": "https://www.lgyy.vip"
     },
+     {
+      "key": "drpy_js_奇珍异兽",
+      "name": "🥝爱奇艺（官）",
+      "type": 3,
+      "api": "http://alist.xn--z7x900a.love:63/drpy2.min.js",
+      "ext": "http://alist.xn--z7x900a.love:63/爱奇.js"
+    },
+    {
+      "key": "Qtv",
+      "name": "🐧腾讯（官）",
+      "type": 3,
+      "api": "csp_Qtv",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "csp_SP360",
+      "name": "🥎360影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://我不是.肥猫.love:63/json/360影视.json"
+    },
+    {
+      "key": "MGT",
+      "name": "🥭芒果（官）",
+      "type": 3,
+      "api": "csp_Mtv",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
     {
       "key": "csp_Ysgc",
       "name": "🎬影视工厂",
@@ -449,6 +484,20 @@
       "type": 3,
       "url": "Demo"
     },
+    
+    {"name":"解析1","type":1,"url":"http://27.124.4.42:4567/jhjson/ceshi.php?url="},
+
+{"name":"解析2","type":1,"url":"http://113.125.122.109:5555/aiku.php?url="},
+
+{"name":"解析3","type":1,"url":"https://vip.ckllk.com/API.php?appkey=404164cdd1472561b4c61f1845e0bff8&url="},
+
+{"name":"解析4","type":1,"url":"https://vip.xuux.icu/home/api?type=ys&uid=1325731&key=adfgilmnpwzBDEJPY3&url="},
+
+{"name":"解析5","type":1,"url":"https://www.m3u8.tv.cache.janan.net:4433/json2020.php?uid=M3U8.TV&token=88888888&url="},
+
+{"name":"解析6","type":1,"url":"http://110.42.2.247:880/analysis/json/?uid=2056&my=efjkmvBGHILMSUWXY0&url="},
+
+{"name":"解析7","type":1,"url":"http://json.yimufund.net/jsonindex.php?url=","ext":{"header":{"User-Agent":"LuaSocket 3.0-rc1"}}},
     {
       "name": "星辰云解析",
       "type": 1,
