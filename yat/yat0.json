@@ -67,7 +67,7 @@
       "key": "51smt4.xyz",
       "name": "51smt4",
       "type": 1,
-      "api": "http://51smt4.xyz/api.php/provide/vod/",
+      "api": "http://51smt4.xyz/api.php/provide/vod/",  
       "searchable": 1,
       "filterable": 1
     },
