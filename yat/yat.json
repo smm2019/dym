@@ -65,17 +65,17 @@
        "quickSearch": 1,
        "filterable": 1
     },
-{"key":"腾讯","name":"腾讯视频","type":3,"api":"./js/lib/drpy2.min.js","ext":"./js/tengxun.js"},
+{"key":"腾讯","name":"腾讯视频","type":3,"api":"./js/lib/drpy2.min.js","ext":"./js/tengxun.js,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/jigedos/dym/master/yat/0606.jar"},
 
-{"key":"爱奇艺","name":"奇艺视频","type":3,"api":"./js/lib/drpy2.min.js","ext":"./js/iqy.js"},
+{"key":"爱奇艺","name":"奇艺视频","type":3,"api":"./js/lib/drpy2.min.js","ext":"./js/iqy.js","jar":"https://ghproxy.com/https://raw.githubusercontent.com/jigedos/dym/master/yat/0606.jar"},
 
-{"key":"优酷","name":"优酷视频","type":3,"api":"./js/lib/drpy2.min.js","ext":"./js/youku.js"},
+{"key":"优酷","name":"优酷视频","type":3,"api":"./js/lib/drpy2.min.js","ext":"./js/youku.js","jar":"https://ghproxy.com/https://raw.githubusercontent.com/jigedos/dym/master/yat/0606.jar"},
 
-{"key":"360","name":"测试接口专用","type":3,"api":"./js/lib/drpy2.min.js","ext":"./js/360.js"},
+{"key":"360","name":"测试接口专用","type":3,"api":"./js/lib/drpy2.min.js","ext":"./js/360.js","jar":"https://ghproxy.com/https://raw.githubusercontent.com/jigedos/dym/master/yat/0606.jar"},
 
-{"key":"搜狗","name":"搜狗视频","type":3,"api":"./js/lib/drpy2.min.js","ext":"./js/sougou.js"},
+{"key":"搜狗","name":"搜狗视频","type":3,"api":"./js/lib/drpy2.min.js","ext":"./js/sougou.js","jar":"https://ghproxy.com/https://raw.githubusercontent.com/jigedos/dym/master/yat/0606.jar"},
 
-{"key":"芒果","name":"芒果视频","type":3,"api":"./js/lib/drpy2.min.js","ext":"./js/mangguo.js"}
+{"key":"芒果","name":"芒果视频","type":3,"api":"./js/lib/drpy2.min.js","ext":"./js/mangguo.js","jar":"https://ghproxy.com/https://raw.githubusercontent.com/jigedos/dym/master/yat/0606.jar"}
 		],
 "parses": [
 	{"name":"解析聚合","type":3,"url":"Demo"},
