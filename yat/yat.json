@@ -74,8 +74,7 @@
 
 {"key":"360","name":"测试接口专用","type":3,"api":"./js/lib/drpy2.min.js","ext":"360.js","jar":"https://ghproxy.com/https://raw.githubusercontent.com/jigedos/dym/master/yat/0606.jar"},
 
-{"key":"搜狗","name":"搜狗视频","type":3,"api":"./js/lib/drpy2.min.js","ext":"ougou.js","jar":"https://ghproxy.com/https://raw.githubusercontent.com/jigedos/dym/master/yat/0606.jar"},
-{"key":"芒果","name":"芒果视频","type":3,"api":"./js/lib/drpy2.min.js","ext":"angguo.js","jar":"https://ghproxy.com/https://raw.githubusercontent.com/jigedos/dym/master/yat/0606.jar"}
+{"key":"搜狗","name":"搜狗视频","type":3,"api":"./js/lib/drpy2.min.js","ext":"sougou.js","jar":"https://ghproxy.com/https://raw.githubusercontent.com/jigedos/dym/master/yat/0606.jar"},
 {"key":"芒果","name":"芒果视频","type":3,"api":"./js/lib/drpy2.min.js","ext":"mangguo.js","jar":"https://ghproxy.com/https://raw.githubusercontent.com/jigedos/dym/master/yat/0606.jar"}
 		],
 "parses": [
