@@ -60,22 +60,7 @@
 {"key": "csp_appys_如意4K","name": "🤡如意4K","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://cms.maoyingshi.cc/api.php/app/"},
 	  
 	  
-	{
-            "key": "干饭",
-            "name": "️🎁干饭采集",
-            "type": 1,
-            "api": "http://124.220.183.81:83/api.php/provide/vod/",
-            "playUrl": "https://jx.bozrc.com:4433/player/?url=",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "categories": [
-                "电影",
-                "剧集",
-                "综艺",
-                "动漫"
-            ]
-        },  
+
 	{"key": "抖音小姐姐","name": "💃抖音小姐姐", "type": 4,"api": "http://120.53.102.254/xjj","searchable": 1,"quickSearch": 0,"filterable": 1 },
 
 {"key": "直播转点播1","name": "🎦直播转换","type": 3,"api": "https://download.kstore.space/download/4127/直播﹦点播.js","ext": "./lives/$$$太阳直播$http://9xi4o.tk/sub/mytv.txt#爱尚直播$https://agit.ai/fantaiying/fty/raw/branch/master/live.txt#终南直播$https://agit.ai/Yoursmile7/TVBox/raw/branch/master/live.txt#天空直播$https://dashu0754.com/api/v3/file/get/107/天空.txt?sign=snnQu9W2pkmE62eymRELu0TQvpjIQjwuL9rhpoHQ8JM%3D%3A0#唐三直播$http://home.jundie.top:81/Cat/tv/live.txt#多多直播$https://yydsys.top/duo/txt/v.txt#星辰直播$http://tvmvip.com/xclive.txt#吾爱直播$http://52bsj.vip:81/api/v3/file/get/763/live.txt?sign=87BTGT1_6AOry7FPwy_uuxFTv2Wcb9aDMj46rDdRTD8%3D%3A0#饭太硬直播$http://ftyyy.tk/live.txt#肥猫直播$http://我不是.肥猫.love:63/TV/tvzb.txt &&&https://api.caonm.net/api/mc/index.php"},  
@@ -108,49 +93,7 @@
       "filterable": 1
     },
 
-{"key":"Music_spider","name":"🪩音乐欣赏","api":"csp_Music","type":3,"filterable":0,"quickSearch":1,"searchable":1,"ext":""},
   
-	  
-	{"key":"csp_QQ","name":"🐧腾讯视频(官)","type": 3,"api":"csp_Qtv","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":""},
-{"key":"爱奇艺","name":"🥝爱奇艺（官）","type":3,"api":"csp_Itv","quickSearch":1,"searchable":1,"filterable":1},
-
-{"key":"csp_MGTV","name":"🥭芒果（官）","type":3,"api":"csp_Mtv","searchable":1,"quickSearch":1,"filterable":1},
-
- {
-            "key": "腾讯资源",
-            "name": "️🐧腾讯|影视",
-            "type": 1,
-            "api": "http://playersll.gaoxin155.com.cn/api.php/provide/vod/from/qq/?at/xml/",
-            "playUrl":"https://jxdp.codermart.net/?url=",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "categories":["国产剧","韩国剧","香港剧","台湾剧","欧美剧","动作片","科幻片","战争片","奇幻片","喜剧片","爱情片","恐怖片","犯罪片","悬疑片","惊悚片","剧情片","冒险片","记录片","综艺","动漫"]
-        },
-    
-        {
-            "key": "爱奇艺资源",
-            "name": "️🥝爱奇艺|影视",
-            "type": 1,
-            "api": "http://playersll.gaoxin155.com.cn/api.php/provide/vod/from/qiyi/?at/xml/",
-            "playUrl":"https://jxdp.codermart.net/?url=",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "categories":["国产剧","韩国剧","香港剧","台湾剧","欧美剧","动作片","科幻片","战争片","奇幻片","喜剧片","爱情片","恐怖片","犯罪片","悬疑片","惊悚片","剧情片","冒险片","记录片","综艺","动漫"]
-        },
-        {
-            "key": "优酷资源",
-            "name": "️👔优酷|影视",
-            "type": 1,
-            "api": "http://playersll.gaoxin155.com.cn/api.php/provide/vod/from/youku/?at/xml/",
-            "playUrl":"https://www.cgdyw.net/jiexi/jiexi-gf/?url=",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "categories":["国产剧","韩国剧","香港剧","台湾剧","欧美剧","动作片","科幻片","战争片","奇幻片","喜剧片","爱情片","恐怖片","犯罪片","悬疑片","惊悚片","剧情片","冒险片","记录片","综艺","动漫"]
-        },
-        
 	  
 	  
 	  
