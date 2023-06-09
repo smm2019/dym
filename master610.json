@@ -31,33 +31,7 @@
       "api": "csp_AppYsV2",
       "ext": "https://aidiapp.xyz/xgapp.php/v2/"
     },
-    {
-      "key": "drpy_js_创艺",
-      "name": "🎞️创艺影视",
-      "type": 3,
-      "api": "https://agit.ai/guot54/TVBOXZY/raw/branch/main/JS/lib/drpy.min.js",
-      "ext": "https://jihulab.com/ygbh1/box/-/raw/main/JS/js/%E5%88%9B%E8%89%BA%E5%BD%B1%E8%A7%86.js"
-    },
-    {
-      "key": "csp_AppMr",
-      "name": "🕺小明影视",
-      "type": 3,
-      "api": "csp_AppMr",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "csp_DiDuan",
-      "name": "⏮️低端影视",
-      "type": 3,
-      "api": "csp_Ddrk",
-      "click": "ddys.tv;#vjsp>button",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
-    {
+       {
       "key": "Czsapp",
       "name": "🥷厂长资源",
       "type": "3",
@@ -263,7 +237,7 @@
     },
     {
       "key": "磁力熊",
-      "name": "🐻磁力┃熊熊",
+      "name": "🐻磁力┃熊熊********",
       "type": 1,
       "api": "https://v.3412.net.cn/macapi.php/provide/vod",
       "playUrl": "https://player.i597.cc/?url=",
