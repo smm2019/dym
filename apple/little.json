@@ -32,29 +32,12 @@
     {
       "key": "csp_Kunyu77",
       "name": "🍎备份源一","type":3,"api":"http://alist.xn--z7x900a.love:63/drpy2.min.js","ext":"http://alist.xn--z7x900a.love:63/酷云77.js","searchable": 1,"quickSearch": 1,"filterable": 1},
-    {
-      "key": "农民",
-      "name": "🍎备份源二",
-      "type": 3,
-      "api": "csp_Nmys",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://我不是.肥猫.love:63/json/nmys.json"
-    },
-    {"key":"Libo","name":"🍎备份源二Libo","type":3,"api":"csp_Libvio","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.libvio.cc/"},
 
-    {"key":"多米","name":"🍎备份源三🍚多米┃蓝光","type":3,"api":"csp_AppYsV2","ext":"http://v.dmdh.top/api.php/app/"},
+    {"key":"Libo","name":"🍎备份源二","type":3,"api":"csp_Libvio","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.libvio.cc/"},
 
-    {
-      "key": "csp_Cokemv",
-      "name": "🍎备份源三",
-      "type": 3,
-      "api": "csp_Cokemv",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
+    {"key":"多米","name":"🍎备份源三","type":3,"api":"csp_AppYsV2","ext":"http://v.dmdh.top/api.php/app/"},
+
+   
     {
       "key": "csp_AppMr",
       "name": "🍎备份源四",
@@ -64,17 +47,18 @@
       "quickSearch": 1,
       "filterable": 1
     },
-    {
-      "key": "csp_appys_如意4K",
-      "name": "🍎备份源五",
+    
+        {
+      "key": "csp_biubiu_voflix",
+      "name": "🍎备份源五🌀┃Vof┃影视",
       "type": 3,
-      "api": "csp_AppYsV2",
+      "api": "csp_XBPQ",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "http://cms.maoyingshi.cc/api.php/app/",
-      "playUrl": "json:https://jx.4kdv.com/?url="
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/jigedos/yyrh/main/feim/json/voflix.json"
     },
+  
     {
       "key": "csp_fant",
       "name": "🍎备份源六",
@@ -95,19 +79,28 @@
       "searchable": 1,
       "ext": "http://我不是.肥猫.love:63/json/乐猪.json"
     },
-    {"key":"热播","name":"🍎备份源八🌭热播┃之家","type":3,"api":"./lib/drpy2.min.js","ext":"https://ghproxy.com/https://raw.githubusercontent.com/jigedos/xiaoH/main/js/%E7%83%AD%E6%92%AD%E4%B9%8B%E5%AE%B6.js"},
-
-    {
-      "key": "csp_Smdyy",
-      "name": "🍎备份源八",
+       {
+      "key": "csp_MeiJu69",
+      "name": "🍎备份源八🗽┃六九┃美剧",
       "type": 3,
-      "api": "csp_Smdyy",
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://www.69mj.com/xgapp.php/v2/"
+    },
+   
+     {
+      "key": "csp_AppMr",
+      "name": "🍎备份源九👻┃明明┃影视",
+      "type": 3,
+      "api": "csp_AppMr",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
     },
-    {"key":"追剧兔","name":"🍎备份源九🐇追剧┃兔兔","type":3,"api":"csp_XBPQ","ext":"https://ghproxy.com/https://raw.githubusercontent.com/jigedos/xiaoH/main/XBPQ/%E8%BF%BD%E5%89%A7%E5%85%94.json"},
 
+   
     {
       "key": "Kuaikan",
       "name": "🍎备份源九",
@@ -238,47 +231,7 @@
       "quickSearch": 1,
       "filterable": 1
     },
-    {
-      "key": "csp_xyq肥猫",
-      "name": "🐱花猫影视",
-      "type": 3,
-      "api": "csp_XYQHiker",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://我不是.肥猫.love:63/json/肥猫影视.json",
-      "jar": "http://我不是.肥猫.love:63/Jar/XYQ.jar"
-    },
-    {
-      "key": "乌龟影院",
-      "name": "🐢乌龟影院",
-      "type": 3,
-      "api": "csp_XBiubiu",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "http://45.125.46.61/box/json/%E4%B9%8C%E9%BE%9F%E5%BD%B1%E9%99%A2.json"
-    },
-    {
-      "key": "人人影视",
-      "name": "👫人人影视",
-      "type": 3,
-      "api": "csp_XBiubiu",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "http://45.125.46.61/box/json/%E4%BA%BA%E4%BA%BA%E5%BD%B1%E8%A7%86.json"
-    },
-    {
-      "key": "csp_biubiu_骚火电影",
-      "name": "🔥骚火电影",
-      "type": 3,
-      "api": "csp_XBiubiu",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "http://45.125.46.61/box/json/%E9%AA%9A%E7%81%AB%E7%94%B5%E5%BD%B1.json"
-    },
+   
     {
       "key": "csp_Lib",
       "name": "🍒LibVio",
@@ -290,22 +243,7 @@
       "filterable": 0,
       "ext": "https://tv.libvio.cc"
     },
-    {
-      "key": "csp_XBPQ秋霞影视",
-      "name": "️🍂秋霞影视",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": {
-        "分类": "电影$1#连续剧$2#动漫$4#综艺$3",
-        "分类url": "https://www.qiuxia360.com/vodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html;;val",
-        "跳转播放链接": "https://www.jfxz689.com/?url=+vod_class*url\":\"&&\"+&tm=+\"tm\":&&,+&key=+\"key\"*\"&&\"",
-        "二次跳转播放链接": "https://www.jfxz689.com/API.php;post;url=+\"url\"*\"&&\"+&time=+\"time\"*\"&&\"+&key=+\"key\"*\"&&\"",
-        "三次跳转播放链接": "\"url\"*\"&&\""
-      }
-    },
+  
     {
       "key": "csp_Lgyy",
       "name": "🌀蓝光影视",
@@ -362,16 +300,7 @@
       "m3u8ads": "hd.youyhn.com",
       "ext": "https://www.ysgc.fun"
     },
-    {
-      "key": "去看动漫",
-      "name": "🎊去看动漫",
-      "type": 3,
-      "api": "csp_XBiubiu",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "http://45.125.46.61/box/json/%E5%8E%BB%E7%9C%8B%E5%8A%A8%E6%BC%AB.json"
-    },
+   
     {
       "key": "csp_Anime1",
       "name": "💀日本动漫",
@@ -381,26 +310,7 @@
       "quickSearch": 1,
       "filterable": 1
     },
-    {
-      "key": "csp_XBiuCOKEMV",
-      "name": "🍬可乐影视",
-      "type": 3,
-      "api": "csp_Cokemv",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "playerType": 2
-    },
-    {
-      "key": "csp_biubiu_cupfox",
-      "name": "🦊茶杯狐",
-      "type": 3,
-      "api": "csp_XBiubiu",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "http://45.125.46.61/box/json/%E8%8C%B6%E6%9D%AF%E7%8B%90.json"
-    },
+  
     {
       "key": "csp_BBB",
       "name": "🅱哔哩合集",
