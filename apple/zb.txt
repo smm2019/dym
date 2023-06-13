@@ -535,50 +535,6 @@ CCTV世界地理,http://42.176.185.28:9901/tsfile/live/1037_1.m3u8
 新疆卫视,http://cyz32.livehbindex.hbcatv.cn/live/500000201e484cbeb064a31201e3dd05.m3u8?bitrate=2300&pt=5$广电5G云
 云南卫视,http://cyz32.livehbindex.hbcatv.cn/live/50000020a2f74b03928347fb0b02768b.m3u8?bitrate=2300&pt=5$广电5G云
 浙江卫视,http://cyz32.livehbindex.hbcatv.cn/live/5000002045414da0bcca7fb08fd34c8a.m3u8?bitrate=2300&pt=5$广电5G云
-🖥    New Tv,#genre#
-NewTV黑莓电竞,http://39.134.115.163:8080/PLTV/88888910/224/3221225653/index.m3u8
-NewTV黑莓电影,http://39.134.115.163:8080/PLTV/88888910/224/3221225718/index.m3u8
-NewTV潮妈辣婆,http://39.135.138.58:18890/PLTV/88888888/224/3221225712/index.m3u8
-NewTV爱情喜剧,http://39.135.138.58:18890/PLTV/88888888/224/3221225656/index.m3u8
-NewTV古装剧场,http://39.134.115.163:8080/PLTV/88888910/224/3221225678/index.m3u8
-NewTV古装剧场,http://39.135.138.60:18890/PLTV/88888910/224/3221225678/index.m3u8
-NewTV动作电影,http://39.135.138.58:18890/PLTV/88888888/224/3221225620/index.m3u8
-NewTV动作电影,http://39.135.138.60:18890/PLTV/88888910/224/3221225620/index.m3u8
-NewTV动作电影,http://39.135.138.58:18890/PLTV/88888888/224/3221225678/index.m3u8
-NewTV军旅剧场,http://39.134.115.163:8080/PLTV/88888910/224/3221225669/index.m3u8
-NewTV军旅剧场,http://39.135.138.60:18890/PLTV/88888910/224/3221225669/index.m3u8
-NewTV精品纪录,http://39.134.115.163:8080/PLTV/88888910/224/3221225710/index.m3u8
-NewTV精品纪录,http://39.135.138.60:18890/PLTV/88888910/224/3221225707/index.m3u8
-NewTV军事评论,http://39.135.138.58:18890/PLTV/88888888/224/3221225623/index.m3u8
-NewTV军事评论,http://39.135.138.58:18890/PLTV/88888888/224/3221225757/index.m3u8
-NewTV军事评论,http://39.135.138.60:18890/PLTV/88888910/224/3221225757/index.m3u8
-NewTV家庭剧场,http://39.135.138.58:18890/PLTV/88888888/224/3221225670/index.m3u8
-NewTV农业致富,http://39.134.115.163:8080/PLTV/88888910/224/3221225670/index.m3u8
-NewTV农业致富,http://39.135.138.60:18890/PLTV/88888910/224/3221225660/index.m3u8
-NewTV武搏世界,http://39.135.138.60:18890/PLTV/88888910/224/3221225670/index.m3u8
-NewTV超级电视剧,http://39.135.138.58:18890/PLTV/88888888/224/3221225710/index.m3u8
-NewTV超级电视剧,http://39.135.138.60:18890/PLTV/88888910/224/3221225710/index.m3u8
-NewTV超级体育,http://39.134.115.163:8080/PLTV/88888910/224/3221225622/index.m3u8
-NewTV超级体育,http://39.135.138.60:18890/PLTV/88888910/224/3221225709/index.m3u8
-NewTV金牌综艺,http://39.135.138.58:18890/PLTV/88888888/224/3221225622/index.m3u8
-NewTV金牌综艺,http://39.135.138.58:18890/PLTV/88888888/224/3221225648/index.m3u8
-NewTV精品大剧,http://39.134.115.163:8080/PLTV/88888910/224/3221225714/index.m3u8
-NewTV精品大剧,http://39.135.138.58:18890/PLTV/88888888/224/3221225708/index.m3u8
-NewTV精品大剧,http://39.135.138.60:18890/PLTV/88888910/224/3221225708/index.m3u8
-NewTV炫舞未来,http://39.134.115.163:8080/PLTV/88888910/224/3221225707/index.m3u8
-NewTV炫舞未来,http://39.135.138.60:18890/PLTV/88888910/224/3221225713/index.m3u8
-NewTV超级电影,http://39.135.138.58:18890/PLTV/88888888/224/3221225714/index.m3u8
-NewTV超级电影,http://39.135.138.60:18890/PLTV/88888910/224/3221225714/index.m3u8
-NewTV超级综艺,http://39.135.138.58:18890/PLTV/88888888/224/3221225716/index.m3u8
-NewTV明星大片,http://39.135.138.58:18890/PLTV/88888888/224/3221226210/index.m3u8
-NewTV欢乐剧场,http://39.135.138.58:18890/PLTV/88888888/224/3221225711/index.m3u8
-NewTV热播精选,http://39.135.138.60:18890/PLTV/88888910/224/3221225711/index.m3u8
-黑莓电影,http://117.169.124.149:8080/live/HD-8000k-1080P-Supermovie/1.m3u8
-黑莓电影,http://39.135.138.60:18890/PLTV/88888910/224/3221225718/index.m3u8
-黑莓电影,http://39.135.138.58:18890/PLTV/88888888/224/3221225718/index.m3u8
-黑莓电影,http://39.135.138.58:18890/PLTV/88888888/224/3221225764/index.m3u8
-黑莓电影,http://39.135.138.58:18890/PLTV/88888888/224/3221225769/index.m3u8
-
 
 
 🖥虎牙,#genre#
@@ -625,34 +581,11 @@ NewTV热播精选,http://39.135.138.60:18890/PLTV/88888910/224/3221225711/index.
 龙门镖局,http://43.137.29.124/txdirect.flv.huya.com/src/1449698121-1449698121-6226406018767650816-2847687516-10057-A-0-1.m3u8?wsiphost=ipdbme
 医馆笑传*陈赫,http://43.137.29.124/txdirect.flv.huya.com/src/1449698185-1449698185-6226406293645557760-2847687566-10057-A-0-1.m3u8?wsiphost=ipdbme
 杨光快乐生活,http://43.137.29.124/txdirect.flv.huya.com/src/1250011-1250011-5368756364640256-3049003162-10057-A-0-1.m3u8?wsiphost=ipdbme
-
-🖥TVB剧场,#genre#
 喜剧专场,https://al.flv.huya.com/src/1524434089-1524434089-6547394557162553344-3048991634-10057-A-0-1.flv?wsSecret=35438264d01803f04f82e095d225f4dc&wsTime=6471e82d&seqid=3150172266349&ctype=huya_live&ver=1&fs=bgct&dMod=mseh-0&u=1468663095831&t=100&sv=2305260330&sdk_sid=1685186607831
 红色经典影片,https://al.flv.huya.com/src/1420752082-1420752082-6102083727913910272-3049003134-10057-A-0-1.flv?wsSecret=4add944292222cf99d5f47868eb3dc8d&wsTime=6471e60e&seqid=3150171722937&ctype=huya_live&ver=1&fs=bgct&dMod=mseh-0&u=1468663095831&t=100&sv=2305260330&sdk_sid=1685186064421
 港剧最佳拍档,https://al.flv.huya.com/src/1524418094-1524418094-6547325859160653824-3048959644-10057-A-0-1.flv?wsSecret=da534436a272cb731e1013cfef428e26&wsTime=6471e896&seqid=3150172393674&ctype=huya_live&ver=1&txyp=o%3Ahaeic1%3B&fs=bgct&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*&exsphd=264_2000,&dMod=mseh-0&u=1468663095831&t=100&sv=2305260330&sdk_sid=1685186735152
 经典之作·金庸,https://al.flv.huya.com/src/1394575551-1394575551-5989656383346180096-2789274558-10057-A-0-1.flv?wsSecret=4127207849eeb080dc9a6dd77331eba4&wsTime=6471e983&seqid=3150172607210&ctype=huya_live&ver=1&txyp=o%3Aq5%3B&fs=bgct&dMod=mseh-0&u=1468663095831&t=100&sv=2305260330&sdk_sid=1685186948714
-射雕英雄传,http://120.204.20.48/tx.flv.huya.com/src/1199561223711-1199561223711-5434628823519854592-2399122570878-10057-A-0-1.flv
-神雕侠侣,http://120.204.20.48/tx.flv.huya.com/src/1199563459241-1199563459241-5444230351759081472-2399127041938-10057-A-0-1.flv
-天龙八部,http://120.204.20.48/tx.flv.huya.com/src/1199564062365-1199564062365-5446820749614514176-2399128248186-10057-A-0-1.flv
-雪山飞狐,http://120.204.20.48/tx.flv.huya.com/src/1199561391895-1199561391895-5435351168299565056-2399122907246-10057-A-0-1.flv
-金装四大才子,http://120.204.20.48/tx.flv.huya.com/src/1199563478867-1199563478867-5444314644787232768-2399127081190-10057-A-0-1.flv
-鹿鼎记,http://120.204.20.48/tx.flv.huya.com/src/1199563459172-1199563459172-5444230055406338048-2399127041800-10057-A-0-1.flv
-寻秦记,http://120.204.20.48/tx.flv.huya.com/src/1199563493375-1199563493375-5444376956172763136-2399127110206-10057-A-0-1.flv
-状王宋世杰,http://120.204.20.48/tx.flv.huya.com/src/1199561462555-1199561462555-5435654650688700416-2399123048566-10057-A-0-1.flv
-布衣神相,http://120.204.20.48/tx.flv.huya.com/src/1199563452337-1199563452337-5444200699304869888-2399127028130-10057-A-0-1.flv
-爱-回家,http://120.204.20.48/tx.flv.huya.com/src/1199563478941-1199563478941-5444314962614812672-2399127081338-10057-A-0-1.flv
-野蛮庆家,http://120.204.20.48/tx.flv.huya.com/src/1199563452505-1199563452505-5444201420859375616-2399127028466-10057-A-0-1.flv
-陀枪师姐,http://120.204.20.48/tx.flv.huya.com/src/1199561176260-1199561176260-5434425023026692096-2399122475976-10057-A-0-1.flv
-法政先锋,http://120.204.20.48/tx.flv.huya.com/src/1199561226091-1199561226091-5434639045542019072-2399122575638-10057-A-0-1.flv
-法政先锋2,http://120.204.20.48/tx.flv.huya.com/src/1199561244004-1199561244004-5434715981291192320-2399122611464-10057-A-0-1.flv
-法政先锋3,http://120.204.20.48/tx.flv.huya.com/src/1199563486009-1199563486009-5444345319443660800-2399127095474-10057-A-0-1.flv
-法政先锋4,http://120.204.20.48/tx.flv.huya.com/src/1199561463578-1199561463578-5435659044440244224-2399123050612-10057-A-0-1.flv
-楚汉骄雄,http://120.204.20.48/tx.flv.huya.com/src/1199561177177-1199561177177-5434428961511702528-2399122477810-10057-A-0-1.flv
-洗冤录,http://120.204.20.48/tx.flv.huya.com/src/1199564003640-1199564003640-5446568527660056576-2399128130736-10057-A-0-1.flv
-扫黄先锋,http://120.204.20.48/tx.flv.huya.com/src/1199563564801-1199563564801-5444683728506847232-2399127253058-10057-A-0-1.flv
-施公奇案,http://120.204.20.48/tx.flv.huya.com/src/1199561241049-1199561241049-5434703289662832640-2399122605554-10057-A-0-1.flv
-大时代,http://120.204.20.48/tx.flv.huya.com/src/1199563477578-1199563477578-5444309108574388224-2399127078612-10057-A-0-1.flv
-水浒无间道,http://120.204.20.48/tx.flv.huya.com/src/1199563461114-1199563461114-5444238396232826880-2399127045684-10057-A-0-1.flv
+
 🏖埋堆堆,#genre#
 西游记,https://epg.112114.xyz/huya/23865036
 楚汉骄雄,https://epg.112114.xyz/huya/23740156
@@ -771,43 +704,6 @@ VIUTV,http://r.jdshipin.com/vSJvl
 
 
 🖥老片展播,#genre#
-孙悟空,http://jiandjh.51vip.biz:35455/huya/11342395
-
-太空混战,http://jiandjh.51vip.biz:35455/huya/21059579
-
-天雷滚滚,http://jiandjh.51vip.biz:35455/huya/11352945
-
-天龙八部,http://jiandjh.51vip.biz:35455/huya/11602041
-
-歪果仁动作,http://jiandjh.51vip.biz:35455/huya/21059552
-
-文成公主,http://jiandjh.51vip.biz:35455/huya/11352974
-
-我是大哥大,http://jiandjh.51vip.biz:35455/huya/23652317
-
-喜剧合家欢,http://jiandjh.51vip.biz:35455/huya/11352877
-
-喜剧专场,http://jiandjh.51vip.biz:35455/huya/11602044#http://hls.ye23.vip/wl/huya2205.php?id=11352894#http://hls.ye23.vip/wl/huya2205.php?id=11602044
-
-小鲤鱼,http://jiandjh.51vip.biz:35455/huya/11601961
-
-新三国,http://jiandjh.51vip.biz:35455/huya/11352944
-
-悬疑推理,http://jiandjh.51vip.biz:35455/huya/17445539
-
-医馆笑传,http://jiandjh.51vip.biz:35455/huya/11352891
-
-异形世界,http://jiandjh.51vip.biz:35455/huya/21059577
-
-甄嬛传,http://jiandjh.51vip.biz:35455/huya/11601971
-
-止戈电影,http://jiandjh.51vip.biz:35455/huya/19863777
-
-中国功夫,http://jiandjh.51vip.biz:35455/huya/11352941#http://txtest-xp2p.p2p.huya.com/src/1448738174-1448738174-6222283077796757504-2847699112-10057-A-0-1.xs
-
-朱雀青龙,http://jiandjh.51vip.biz:35455/huya/11352905
-
-捉妖记,http://jiandjh.51vip.biz:35455/huya/11342414
 
 贝爷影厅1,http://epg.112114.xyz/douyu/252802#http://api.52tb.xyz/info?id=1016&token=20221117katecolove#http://api2.52tb.xyz/info?id=1016&token=20230404dmgnht
 
@@ -918,16 +814,7 @@ VIUTV,http://r.jdshipin.com/vSJvl
 芙蓉镇,https://txmov2.a.kwimgs.com/upic/2023/02/13/13/BMjAyMzAyMTMxMzU5MzJfNzM5MzQzNzIyXzk2MTI0ODY3NjAwXzBfMw==_b_B436ff38d447ce72f50c0cb4bad24f375.mp4
 
 🖥    _5566 ,#genre#
-彩虹e台,mitv://generationnexxxt.com:19806/1cc806a1cd934ef59217cbe816c38018
-彩虹電影台,mitv://generationnexxxt.com:19806/ede503079f114bc6bf365846ba424990
-LOOK TV,mitv://generationnexxxt.com:19806/20398d4884a6475bb6a1520411b50b54
-潘朵啦玩美台,mitv://generationnexxxt.com:19806/bc43c724e539490691c8f7e1d3db27e6
-松视1台,mitv://generationnexxxt.com:19806/63b6d349ebc247618a07b53deb0c00b0
-松视2台,mitv://generationnexxxt.com:19806/69d7816ce9234d5a82bd93992a85cad8
-松视3台,mitv://generationnexxxt.com:19806/90c8cadbc11f459380c04480de7630c3
-JStar极限台,mitv://generationnexxxt.com:19806/761b412082534116b4a63d46130ea3d4
-HAPPY,mitv://generationnexxxt.com:19806/276ad3db2b6746559d60eded6e93bec5
-香蕉台,mitv://generationnexxxt.com:19806/f53ee5ccaf464f418f32ac1feffac1dd
+盲盒,https://0yefiks35y.motorjn.com/20230121/BWNNzdFE/index.m3u8
 Japan HDV,http://87c576b1.cbilant.com/iptv/XP2DFA2ML2YEFG/6225/index.m3u8
 Fake Taxi HD,http://87c576b1.cbilant.com/iptv/XP2DFA2ML2YEFG/6202/index.m3u8
 网约校花,https://0yefiks35y.motorjn.com/20230122/mTBqEmJZ/index.m3u8
@@ -935,7 +822,6 @@ Fake Taxi HD,http://87c576b1.cbilant.com/iptv/XP2DFA2ML2YEFG/6202/index.m3u8
 高颜值萝莉,https://0yefiks35y.motorjn.com/20230122/Hlr1NECE/index.m3u8
 校花萝莉,https://0yefiks35y.motorjn.com/20230113/32YXQdfb/index.m3u8
 棒球队和教练,https://0yefiks35y.motorjn.com/20230119/VHcp5YQH/index.m3u8
-盲盒,https://0yefiks35y.motorjn.com/20230121/BWNNzdFE/index.m3u8
 体验貂蝉,https://0yefiks35y.motorjn.com/20230112/AuVZP5ex/index.m3u8
 妮可口,https://0yefiks35y.motorjn.com/20230116/J3ycCpX8/index.m3u8
 非常绝,https://vmxiwpqqzu1.jztyxxjc.com/20180216/eIAaoDg1/index.m3u8?300
