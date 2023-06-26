@@ -1,80 +1,80 @@
 {
-  "spider": "https://ghproxy.com/https://raw.githubusercontent.com/jigedos/dym/master/JAR/0324.jar;md5;61bca6e5fd49bef5a2834109f23303a9"，
+  "spider": "https://ghproxy.com/https://raw.githubusercontent.com/jigedos/dym/master/JAR/0324.jar;md5;61bca6e5fd49bef5a2834109f23303a9",
   "lives": [
     {
-      "group": "redirect"，
+      "group": "redirect",
       "channels": [
         {
-          "name": "redirect"，
+          "name": "redirect",
           "urls": [
             "proxy://do=live&type=txt&ext=aHR0cHM6Ly9naHByb3h5LmNvbS9odHRwczovL3Jhdy5naXRodWJ1c2VyY29udGVudC5jb20vamlnZWRvcy9keW0vbWFzdGVyL21hc3RlcnpiLnR4dA=="
           ]
         }
       ]
     }
-  ]，
+  ],
   "sites": [
     {
-      "key": "多米蓝光"，
-      "name": "🌽️多米影视"，
-      "type": 3，
-      "api": "csp_AppYsV2"，
-      "searchable": 1，
-      "quickSearch": 1，
-      "filterable": 1，
+      "key": "多米蓝光",
+      "name": "🌽️多米影视",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
       "ext": "http://v.dmdh.top/api.php/app/"
-    }，
+    },
     {
-      "key": "爱迪V2"，
-      "name": "💡️爱迪影视"，
-      "type": 3，
-      "api": "csp_AppYsV2"，
+      "key": "爱迪V2",
+      "name": "💡️爱迪影视",
+      "type": 3,
+      "api": "csp_AppYsV2",
       "ext": "https://aidiapp.xyz/xgapp.php/v2/"
-    }，
+    },
        {
-      "key": "Czsapp"，
-      "name": "🥷厂长资源"，
-      "type": "3"，
-      "api": "csp_Czsapp"，
-      "searchable": "1"，
-      "quickSearch": "1"，
+      "key": "Czsapp",
+      "name": "🥷厂长资源",
+      "type": "3",
+      "api": "csp_Czsapp",
+      "searchable": "1",
+      "quickSearch": "1",
       "filterable": "1"
-    }，
+    },
     {
-      "key": "Kuaikan"，
-      "name": "👁️快看"，
-      "type": 3，
-      "api": "csp_Kuaikan"，
-      "searchable": 1，
-      "quickSearch": 1，
+      "key": "Kuaikan",
+      "name": "👁️快看",
+      "type": 3,
+      "api": "csp_Kuaikan",
+      "searchable": 1,
+      "quickSearch": 1,
       "filterable": 1
-    }，
+    },
     {
-      "key": "mtv_pc_焦炭影视"，
-      "name": "🔥焦炭影视"，
-      "type": 3，
-      "api": "csp_Cokemv"，
-      "searchable": 1，
-      "quickSearch": 1，
+      "key": "mtv_pc_焦炭影视",
+      "name": "🔥焦炭影视",
+      "type": 3,
+      "api": "csp_Cokemv",
+      "searchable": 1,
+      "quickSearch": 1,
       "filterable": 1
-    }，
+    },
     {
-      "key": "csp_fantuan"，
-      "name": "🍙饭团影视"，
-      "type": 3，
-      "api": "csp_Fantuan"，
-      "searchable": 1，
-      "quickSearch": 1，
-      "filterable": 1，
+      "key": "csp_fantuan",
+      "name": "🍙饭团影视",
+      "type": 3,
+      "api": "csp_Fantuan",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
       "ext": "https://www.fantuanhd.com"
-    }，
+    },
     {
-      "key": "csp_Auete"，
-      "name": "🏝Aue(SP)"，
-      "type": 3，
-      "api": "csp_Auete"，
-      "searchable": 1，
-      "quickSearch": 1，
+      "key": "csp_Auete",
+      "name": "🏝Aue(SP)",
+      "type": 3,
+      "api": "csp_Auete",
+      "searchable": 1,
+      "quickSearch": 1,
       "filterable": 1
     },
     {
