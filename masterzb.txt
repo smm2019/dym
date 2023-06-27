@@ -39,37 +39,7 @@ CCTV13,https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8
 CCTV13,http://1.195.111.251:11190/tsfile/live/0013_1.m3u8
 CCTV14,http://1.195.111.251:11190/tsfile/live/0014_1.m3u8
 CCTV15,http://1.195.111.251:11190/tsfile/live/0015_1.m3u8
-CCTV1,http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2000210103.m3u8
-CCTV2,http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2000203603.m3u8
-CCTV3,http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2000203803.m3u8
-CCTV4,http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2000204803.m3u8
-CCTV5,http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2000205103.m3u8
-CCTV5+,http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2000204503.m3u8
-CCTV6,http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2000203303.m3u8
-CCTV7,http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2000510003.m3u8
-CCTV8,http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2000203903.m3u8
-CCTV9,http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2000499403.m3u8
-CCTV10,http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2000203503.m3u8
-CCTV11,http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2000204103.m3u8
-CCTV12,http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2000202603.m3u8
-CCTV13,http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2000204603.m3u8
-CCTV14,http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2000204403.m3u8
-CCTV15,http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2000205003.m3u8
-CCTV16,http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2012375003.m3u8
-CCTV17,http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2000204203.m3u8
-CCTV风云足球,http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2012514203.m3u8
-CCTV风云音乐,http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2012514103.m3u8
-CCTV风云剧场,http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2012513603.m3u8
-CCTV第一剧场,http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2012514403.m3u8
-CCTV怀旧剧场,http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2012511203.m3u8
-CCTV兵器科技,http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2012513403.m3u8
-CCTV高尔夫网球,http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2012512503.m3u8
-CCTV世界地理,http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2012513303.m3u8
-CCTV女性时尚,http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2012513903.m3u8
-CCTV央视精品,http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2012513803.m3u8
-CCTV央视台球,http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2012513703.m3u8
-CCTV电视指南,http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2012514003.m3u8
-CCTV卫生健康,http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2012513502.m3u8
+
 CCTV1,http://125.210.152.19:9120/live/hzgq-cctv1gq-h264.m3u8
 CCTV2,http://125.210.152.19:9120/live/hzgq-cctv2gq-h264.m3u8
 CCTV3,http://125.210.152.19:9120/live/hzgq-cctv3gq-h264.m3u8
@@ -239,92 +209,6 @@ CETV2,http://txycetvbl.centv.cn/cetv2/2020tsytk.m3u8
 CETV3,http://txycsbl.centv.cn/zb/0822cetv3.m3u8
 CETV4,http://txycsbl.centv.cn/zb/0822cetv4.m3u8
 CETV4,http://txycetvbl.centv.cn/cetv4/zjpd.m3u8
-广东,#genre#
-CCTV4K,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=13022928532&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=44&id=4005
-CCTV16-4K,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=13022928532&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=44&id=4010
-广东综艺4K,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=13022928532&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=44&id=GDZYHD4K_38000
-翡翠台,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=13022928532&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=44&id=1350_4500
-明珠台,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=13022928532&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=44&id=1351_4500
-凤凰中文.标清,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=13022928532&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=44&id=fhzw_1500
-星空卫视.标清,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=13022928532&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=44&id=xingkong_1500
-澳亚卫视.标清,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=13022928532&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=44&id=aoya_1500
-乐游频道,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=13022928532&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=44&id=quanjishiHD_7000
-求索纪录,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=13022928532&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=44&id=QSJLHD_7000
-求索科学,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=13022928532&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=44&id=qiusuokexueHD_7000
-求索动物,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=13022928532&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=44&id=QSDWHD_7000
-求索生活,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=13022928532&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=44&id=QSSHHD_7000
-魅力足球,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=13022928532&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=44&id=meiliyinyueHD_7000
-劲爆体育,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=13022928532&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=44&id=jinbaotiyuHD_7000
-大湾区卫视,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=13022928532&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=44&id=1456
-广东新闻,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=13022928532&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=44&id=1454
-广东珠江,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=13022928532&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=44&id=gdzhujiangHD_7500
-广东体育,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=13022928532&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=44&id=1413
-广东民生,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=13022928532&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=44&id=1455
-广东经济科教,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=13022928532&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=44&id=GDjingjikejiaoHD_7000
-广东影视,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=13022928532&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=44&id=1458
-广东少儿,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=13022928532&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=44&id=1457
-广州综合,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=13022928532&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=44&id=gzhounewsHD
-广州新闻,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=13022928532&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=44&id=gzhouzongheHD
-G导视高清,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=13022928532&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=44&id=GHDdaoshi_7500
-嘉佳卡通,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=13022928532&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=44&id=1459
-岭南戏曲,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=13022928532&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=44&id=1460
-汕头综合,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=13022928532&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=44&id=shantouyitaogaoqing_4500
-汕头经济生活,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=13022928532&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=44&id=shantouertaogaoqing_4500
-汕头文旅体育,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=13022928532&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=44&id=2508_4500
-潮州综合,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=13022928532&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=44&id=3131
-潮州民生,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=13022928532&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=44&id=3132
-中山综合,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=13022928532&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=44&id=3665
-中山香山文化,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=13022928532&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=44&id=3663
-中山教育,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=13022928532&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=44&id=3664
-鹤山综合,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=13022928532&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=44&id=3709
-梅州一套,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=13022928532&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=44&id=meizhou1HD_4500
-梅州二套,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=13022928532&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=44&id=meizhou2HD_4500
-增城电视台,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=13022928532&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=44&id=2079
-东莞新闻综合,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=13022928532&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=44&id=2121
-东莞生活资讯,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=13022928532&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=44&id=2122
-佛山综合,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=13022928532&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=44&id=foshanzongheHD_4500
-佛山公共,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=13022928532&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=44&id=foshangonggongHD_4500
-佛山影视,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=13022928532&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=44&id=foshanyingshiHD_4500
-南海综合,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=13022928532&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=44&id=nanhaiHD_4500
-顺德综合,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=13022928532&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=44&id=shundeHD_4500
-珠海一套,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=13022928532&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=44&id=zhuhaiHD1_4500
-珠海二套,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=13022928532&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=44&id=zhuhaiHD2_4500
-斗门融媒,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=13022928532&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=44&id=2207
-惠州一套,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=13022928532&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=44&id=2314
-惠州二套,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=13022928532&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=44&id=2316
-博罗综合,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=13022928532&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=44&id=2305
-廉江综合,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=13022928532&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=44&id=3209
-廉江综合,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=13022928532&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=44&id=3210
-广州综合.标清,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=13022928532&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=44&id=guangzhou_1500
-广州新闻.标清,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=13022928532&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=44&id=gznews_1500
-广州法治.标清,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=13022928532&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=44&id=gzeconomic_1500
-广州竞赛.标清,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=13022928532&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=44&id=gzcompetition_1500
-广州影视.标清,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=13022928532&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=44&id=gzfilms_1500
-湛江综合.标清,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=13022928532&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=44&id=zhanjiangzonghe_1500
-湛江公共.标清,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=13022928532&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=44&id=zhanjianggonggong_1500
-韶关新闻综合.标清,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=13022928532&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=44&id=shaoguanzonghe_1500
-韶关绿色生活.标清,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=13022928532&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=44&id=shaoguangonggong_1500
-始兴综合.标清,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=13022928532&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=44&id=2641
-江门综合.标清,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=13022928532&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=44&id=3712_1500
-江门侨乡生活.标清,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=13022928532&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=44&id=jiangmenyitao_1500
-新会综合.标清,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=13022928532&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=44&id=xinhui_1500
-佛冈.标清,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=13022928532&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=44&id=2405
-怀集综合.标清,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=13022928532&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=44&id=2805
-云浮综合.标清,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=13022928532&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=44&id=yunfuyitao_1500
-云浮文旅.标清,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=13022928532&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=44&id=yunfuertao_1500
-珠海一套.标清,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=13022928532&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=44&id=zhuhaiyitao_1500
-珠海二套.标清,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=13022928532&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=44&id=zhuhaiertao_1500
-河源综合.标清,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=13022928532&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=44&id=heyuanyitao_1500
-河源公共.标清,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=13022928532&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=44&id=heyuanertao_1500
-肇庆综合.标清,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=13022928532&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=44&id=zhaoqingyitao_1500
-肇庆生活服务.标清,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=13022928532&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=44&id=zhaoqingertao_1500
-揭阳综合.标清,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=13022928532&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=44&id=jieyangyitao_1500
-揭阳生活.标清,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=13022928532&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=44&id=jieyangertao_1500
-清远新闻综合.标清,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=13022928532&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=44&id=qingyuanzonghe_1500
-清远文旅生活.标清,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=13022928532&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=44&id=qingyuangongong_1500
-汕尾新闻综合.标清,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=13022928532&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=44&id=shanweiyitao_1500
-汕尾文化生活.标清,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=13022928532&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=44&id=shanweiertao_1500
-
 
 爱奇艺,#genre#
 抗战剧场,http://lvbaiducdncmn.inter.iqiyi.com/tslive/c54_lb_163_600_t10/c54_lb_163_600_t10.m3u8
@@ -456,7 +340,43 @@ CCTV14 高清,http://222.128.98.255:4000/rtp/239.3.1.65:8132
 
 
 埋堆堆,#genre#
-埋堆堆1,http://43.128.40.42:198/%E8%99%8E%E7%89%99%E7%9B%B4%E6%92%AD/huya.php?id=23749096
+埋堆堆01,http://mmitv.top/pltv/huya.php?id=23749096
+埋堆堆02,http://mmitv.top/pltv/huya.php?id=23735126
+埋堆堆03,http://mmitv.top/pltv/huya.php?id=23740156
+埋堆堆04,http://mmitv.top/pltv/huya.php?id=23728660
+埋堆堆05,http://mmitv.top/pltv/huya.php?id=23865080
+埋堆堆06,http://mmitv.top/pltv/huya.php?id=23863804
+埋堆堆07,http://mmitv.top/pltv/huya.php?id=23864973
+埋堆堆08,http://mmitv.top/pltv/huya.php?id=23734169
+埋堆堆09,http://mmitv.top/pltv/huya.php?id=23865171
+埋堆堆10,http://mmitv.top/pltv/huya.php?id=23903130
+埋堆堆11,http://mmitv.top/pltv/huya.php?id=23860039
+埋堆堆12,http://mmitv.top/pltv/huya.php?id=23865142
+埋堆堆13,http://mmitv.top/pltv/huya.php?id=23903123
+埋堆堆14,http://mmitv.top/pltv/huya.php?id=23734183
+埋堆堆15,http://mmitv.top/pltv/huya.php?id=23734256
+埋堆堆16,http://mmitv.top/pltv/huya.php?id=23903183
+埋堆堆17,http://mmitv.top/pltv/huya.php?id=23903196
+埋堆堆18,http://mmitv.top/pltv/huya.php?id=23829543
+埋堆堆19,http://mmitv.top/pltv/huya.php?id=23728674
+埋堆堆20,http://mmitv.top/pltv/huya.php?id=23865036
+埋堆堆21,http://mmitv.top/pltv/huya.php?id=23749083
+埋堆堆22,http://mmitv.top/pltv/huya.php?id=23865164
+埋堆堆23,http://mmitv.top/pltv/huya.php?id=23863818
+埋堆堆24,http://mmitv.top/pltv/huya.php?id=23865058
+埋堆堆25,http://mmitv.top/pltv/huya.php?id=23860049
+埋堆堆26,http://mmitv.top/pltv/huya.php?id=23734246
+埋堆堆27,http://mmitv.top/pltv/huya.php?id=23865161
+埋堆堆28,http://mmitv.top/pltv/huya.php?id=23746486
+埋堆堆29,http://mmitv.top/pltv/huya.php?id=23829447
+埋堆堆30,http://mmitv.top/pltv/huya.php?id=23863778
+埋堆堆31,http://mmitv.top/pltv/huya.php?id=23734176
+埋堆堆32,http://mmitv.top/pltv/huya.php?id=23863796
+埋堆堆33,http://mmitv.top/pltv/huya.php?id=23734211
+埋堆堆34,http://mmitv.top/pltv/huya.php?id=23865179
+埋堆堆35,http://mmitv.top/pltv/huya.php?id=23749068
+埋堆堆36,http://mmitv.top/pltv/huya.php?id=23863787
+埋堆堆37,http://mmitv.top/pltv/huya.php?id=23824164埋堆堆1,http://43.128.40.42:198/%E8%99%8E%E7%89%99%E7%9B%B4%E6%92%AD/huya.php?id=23749096
 埋堆堆2,http://43.128.40.42:198/%E8%99%8E%E7%89%99%E7%9B%B4%E6%92%AD/huya.php?id=23735126
 埋堆堆3,http://43.128.40.42:198/%E8%99%8E%E7%89%99%E7%9B%B4%E6%92%AD/huya.php?id=23865152
 埋堆堆4,http://43.128.40.42:198/%E8%99%8E%E7%89%99%E7%9B%B4%E6%92%AD/huya.php?id=23903196
@@ -1738,59 +1658,7 @@ Studio Universal,http://15.235.10.31:14778
 Studio Universal,http://15.235.10.31:14779
 Studio Universal,http://15.235.10.31:14781
 
-体育｜国际,#genre#
 
-Fox Sports 2,http://15.235.10.31:14326
-Fox Sports 2,http://15.235.10.31:14329
-SporTV,http://15.235.10.31:14762
-SporTV 2,http://15.235.10.31:14763
-SporTV,http://15.235.10.31:14764
-SporTV 2,http://15.235.10.31:14765
-SporTV 2,http://15.235.10.31:14766
-SporTV 2,http://15.235.10.31:14767
-SporTV 2,http://15.235.10.31:14768
-ESPN,http://15.235.10.31:14769
-SporTV 3,http://15.235.10.31:14771
-SporTV 3,http://15.235.10.31:14772
-
-
-影视｜4K,#genre#
-咪咕体育 4K,http://117.136.156.35:80/000000001000/3000000010000005180/index.m3u8
-Astro Super Sport 4K,http://tvt3.xyz:2095/play/live.php?mac=00:1A:79:00:04:02&stream=348094&extension=ts&play_token=FzoklzfqN1
-Astro Super Sport 4K,http://clientsportals.tv:2095/play/live.php?mac=00:1A:79:c0:0f:95&stream=348094&extension=ts&play_token=kgKJ5bkM20
-Bein Sport 4K,http://theking365tv.ws:2103/play/live.php?mac=00:1A:79:5c:f4:67&stream=100891&extension=ts&play_token=ou2Un6sNC5
-Bein Sport 4K,http://k13tvonline.eu:8000/play/live.php?mac=00:1A:79:48:3C:F0&stream=189095&extension=ts&play_token=t1kkZSahBq
-RMC Sport 4K,http://nbr1.co:8000/play/live.php?mac=00:1A:79:3D:6E:D6&stream=78679&extension=ts&play_token=9Z33UVlX3f
-Canal+ 4K,http://theking365tv.ws:2103/play/live.php?mac=00:1A:79:5c:f4:67&stream=4075&extension=ts&play_token=f663dY0IBp
-Insight 4K,http://cdnx1.plusx.tv:8880/InsightUHD11/mono.m3u8?token=d0cef6d2e668ade6842222
-Now Sports 616,http://sheriffwoody.in:80/live/Jeff1/Jeff1/1042156.ts
-Now Sports 617,http://tvt3.xyz:2095/play/live.php?mac=00:1A:79:00:04:02&stream=117957&extension=ts&play_token=AbdVvv7KCM
-BT Sport 4K,http://sheriffwoody.in:80/live/Jeff1/Jeff1/1042157.ts
-Premier Sport 4K,http://tvt3.xyz:2095/play/live.php?mac=00:1A:79:00:04:02&stream=348096&extension=ts&play_token=zpHQS3jtnW
-DAZN F1 4K,http://tribaliptv.com:8080/Gustavo/123456/4930
-MOVISTAR 4K,http://tribaliptv.com:8080/Gustavo/123456/12401
-ODISEA 4K,http://tribaliptv.com:8080/Gustavo/123456/5195
-Eleven Sports 4K,http://cdn.spmr.tv:8080/x6xpbw/video.m3u8?token=WYPW6GSH4H
-SuperSport 4k World CUP,http://cdn.spmr.tv:8080/pr8kvn/video.m3u8?token=WYPW6GSH4H
-Sport5 4k,http://cdn.spmr.tv:8080/npu8r5/video.m3u8?token=WYPW6GSH4H
-TRT 4k,http://cdn.spmr.tv:8080/k9o3lx/video.m3u8?token=WYPW6GSH4H
-DIGI 4k,http://cdn.spmr.tv:8080/q3z9c9/video.m3u8?token=WYPW6GSH4H
-Rai 4k,http://cdn.spmr.tv:8080/25cfpq/video.m3u8?token=WYPW6GSH4H
-TVP 4k,http://cdn.spmr.tv:8080/dTsI28/video.m3u8?token=WYPW6GSH4H
-TRAVELXP 4K,http://45.153.35.200:8001/play/a0b8
-NASA 4k,http://45.153.35.200:8001/play/a0b7
-MYZEN TV 4K,http://45.153.35.200:8001/play/a0ba
-ULTRA NATURE TV 4K,http://185.236.229.31:9981/play/a01d
-Sky Sport 4K,http://cdn.spmr.tv:8080/4Yn0VS/video.m3u8?token=WYPW6GSH4H
-Fashion 4K,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
-Clarity 4K,https://d3thiix3tzne5u.cloudfront.net/playlist2160p.m3u8
-爱自然,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
-MUZZIK 4K,http://muzzik-live.morescreens.com/mts-a6/playlist.m3u8
-loupe 4K,https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
-斗鱼4K,http://epg.112114.xyz/douyu/9249162
-CCTV5,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8
-CCTV5,http://111.29.9.47:6610/000000001000/1000000005000025222/index.m3u8?channel-id=ystenlive&Contentid=1000000005000025222&livemode=1&stbId=3
-CCTV5,http://111.29.9.37:6610/000000001000/1000000005000025222/index.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT2197120221119175523009763&channel-id=ystenlive&Contentid=1000000005000025222
 
 
 影视｜3D,#genre#
